@@ -1,0 +1,8 @@
+**/*.pyc
+**/__pycache__/
+**/images/
+**/models/
+**/pkl/
+**/system_output/
+**/gm-xml
+**/word_embeddings.txt

@@ -1,0 +1,1419 @@
+	date	quantity	goods	goods_cluster	amount	unit	year
+1	31 december 1743	24 caraat	goud	goud	0.48	lb.	1743
+5	31 december 1743	2000 kisten	koper	koper	2000	kisten	1743
+7	31 december 1743	5000 kisten	koper	koper	5000	kisten	1743
+8	31 december 1743	2.000 kisten	koper	koper	2000	kisten	1743
+18	31 december 1743	\3~h lb.	foelij	foelij	3		1743
+21	31 december 1743	250 lasten	rijst	rijst	625000	lb.	1743
+23	31 december 1743	400 lasten	rijs	rijst	1000000	lb.	1743
+25	31 december 1743	350.000 lb.	peper	peper	350000	lb.	1743
+26	31 december 1743	2955 lb.	sappanhout	sappanhout	2955	lb.	1743
+29	31 december 1743	8.502 lb.	peper	peper	8502	lb.	1743
+30	31 december 1743	9850 lb.	peper	peper	9850	lb.	1743
+44	31 december 1743	880 balen	canneel	kaneel	176000	lb.	1743
+46	5 april 1739	548.429 lb.	sappanhout	sappanhout	548429	lb.	1739
+49	5 april 1739	548.429 lb.	sappanhout	sappanhout	548429	lb.	1739
+50	5 april 1739	84.080	thin	thin	84080		1739
+52	5 april 1739	548.429 lb.	sappanhout	sappanhout	548429	lb.	1739
+53	5 april 1739	8042 lb.	thin	thin	8042	lb.	1739
+74	5 april 1739	24 lb.	nagelen	nagelen	24	lb.	1739
+81	5 april 1739	1550 bharen	peper	peper	775000	lb.	1739
+88	5 april 1739	852.076 lb.	thee	thee	852076	lb.	1739
+92	5 april 1739	1.800,-,-8141 lb.	thee	thee	1800		1739
+106	5 april 1739	bedraegt144.000 lb.	salpeter	salpeter	144000	lb.	1739
+120	16 jan. 1660	128 kisten	silver	silver	128	kisten	1660
+125	16 jan. 1660	800 taylen	silver	silver	60.0	lb.	1660
+126	16 jan. 1660	750	sijde	sijde	750		1660
+127	16 jan. 1660	10 kisten	silver	silver	10	kisten	1660
+128	16 jan. 1660	50000	thin	thin	50000		1660
+133	16 jan. 1660	67 baelen	sijde	sijde	13400	lb.	1660
+135	27 dec. 1688	zijn2255 lasten	rijs	rijst	5637500	lb.	1688
+143	27 dec. 1688	20	slaven	slaven	20		1688
+144	27 dec. 1688	3000	slaven	slaven	3000		1688
+151	27 dec. 1688	12	goud	goud	12		1688
+158	27 dec. 1688	700000 balen	rijs	rijst	140000000	lb.	1688
+160	23 nov. 1675	9	slaven	slaven	9		1675
+161	23 nov. 1675	140 lasten	padij	padij	350000	lb.	1675
+169	23 nov. 1675	10 caraet	silver	silver	0.2	lb.	1675
+171	1 dec. 1668	200 picol	peper	peper	25000	lb.	1668
+174	1 dec. 1668	354 balen	zijde	zijde	70800	lb.	1668
+184	15 febr. 1678	8	sappanhout	sappanhout	8		1678
+187	15 febr. 1678	80 ®	peper	peper	80		1678
+189	15 febr. 1678	80	peper	peper	80		1678
+191	26 maart 1691	22785 1809	slaven	slaven	22785		1691
+199	26 maart 1691	31	slaven	slaven	31		1691
+204	31 juli 1672	800 lasten	rijs	rijst	2000000	lb.	1672
+205	26 jan. 1661	800 lasten vervoerden	rijs	rijst	2000000	lb.	1661
+210	6 december 1741	10 lasten	rijst	rijst	25000	lb.	1741
+211	6 december 1741	135 lasten	rijst	rijst	337500	lb.	1741
+212	6 december 1741	15.000 bossen	padij	padij	15000	bossen	1741
+213	6 december 1741	36.000 lb.	rijst	rijst	36000	lb.	1741
+217	6 december 1741	5 lasten	rijst	rijst	12500	lb.	1741
+228	6 december 1741	14.000 picols	thee	thee	1750000	lb.	1741
+230	6 december 1741	9600 picols	thee	thee	1200000	lb.	1741
+232	6 december 1741	6000 picols	thee	thee	750000	lb.	1741
+236	6 december 1741	11.000 picols	thee	thee	1375000	lb.	1741
+243	6 december 1741	140.000 lb.	peper	peper	140000	lb.	1741
+244	6 december 1741	120 picols	peper	peper	15000	lb.	1741
+249	6 december 1741	18 lasten	rijst	rijst	45000	lb.	1741
+250	6 december 1741	12	padij	padij	12		1741
+252	6 december 1741	400.000	sappanhout	sappanhout	400000		1741
+255	6 december 1741	40 lasten	rijst	rijst	100000	lb.	1741
+257	6 december 1741	650 balen	canneel	kaneel	130000	lb.	1741
+270	6 december 1741	1000 koppen	rijst	rijst	1000	koppen	1741
+275	6 december 1741	139 ponden	canneel	kaneel	139	lb.	1741
+276	6 december 1741	5082	canneel	kaneel	5082		1741
+280	6 december 1741	000 coyangs	rijst	rijst	0	lb.	1741
+281	6 december 1741	20	slaven	slaven	20		1741
+285	6 december 1741	1273 balen	canneel	kaneel	254600	lb.	1741
+298	6 december 1741	600 picols	peper	peper	75000	lb.	1741
+300	6 december 1741	215 lasten	rijst	rijst	537500	lb.	1741
+302	6 december 1741	8612 lb.	peper	peper	8612	lb.	1741
+306	6 december 1741	21 3^	indigo	indigo	21		1741
+314	6 december 1741	384 gantings	rijst	rijst	5107.200000000001	lb.	1741
+315	6 december 1741	10.000 bossen	padij	padij	10000	bossen	1741
+329	6 december 1741	1.402.846 lb.	thee	thee	1402		1741
+331	6 december 1741	4000 lb.	zijde	zijde	4000	lb.	1741
+339	6 december 1741	300 balen	canneel	kaneel	60000	lb.	1741
+346	6 december 1741	20.000	zijde	zijde	20000		1741
+350	6 december 1741	16.600	salpeter	salpeter	16600		1741
+354	6 december 1741	3000 maon	salpeter	salpeter	150000	lb.	1741
+362	6 december 1741	79	slaven	slaven	79		1741
+363	6 december 1741	24 bharen	peper	peper	12000	lb.	1741
+364	6 december 1741	24 bharen	peper	peper	12000	lb.	1741
+368	6 december 1741	33.062 lb.	thee	thee	33062	lb.	1741
+371	6 december 1741	290.000 lb.	salpeter	salpeter	290000	lb.	1741
+373	6 december 1741	70.000 lb.	peper	peper	70000	lb.	1741
+382	14 maart 1690	173598	nagelen	nagelen	173598		1690
+385	14 maart 1690	200 lasten	rijs	rijst	500000	lb.	1690
+387	14 maart 1690	20 p.ls	zijde	zijde	2500	lb.	1690
+388	15 jan. 1712	40 theylen	gout	goud	3.0	lb.	1712
+389	15 jan. 1712	60 theylen	peper	peper	4.5	lb.	1712
+390	15 jan. 1712	90875 ÏË	peper	peper	90875		1712
+397	31 jan. 1673	2386	slaven	slaven	2386		1673
+398	31 jan. 1673	127 lasten	padij	padij	317500	lb.	1673
+399	31 jan. 1673	60 lasten	rijs	rijst	150000	lb.	1673
+400	31 jan. 1673	70 taylen	silver	silver	5.25	lb.	1673
+404	31 jan. 1673	3 stux	gout	goud	3	stuks	1673
+416	31 jan. 1673	100 mannen	gout	goud	5000	lb.	1673
+420	31 jan. 1641	300	zijde	zijde	300		1641
+422	20 jan. 1645	10 catty	gout	goud	12.5	lb.	1645
+423	20 jan. 1645	462 £ lasten	peper	peper	462		1645
+424	20 jan. 1645	25000	sijde	sijde	25000		1645
+442	17 oktober 1730	536.500 lb	salpeter	salpeter	536500	lb.	1730
+452	17 oktober 1730	11.242 lb	foelij	foelij	11242	lb.	1730
+483	15 oktober 1743	179.998 lb.	foelij	foelij	179998	lb.	1743
+488	15 oktober 1743	509.25 lb.	thee	thee	50925	lb.	1743
+489	19 febr. 1684	200	slaven	slaven	200		1684
+498	26 febr. 1714	28598	indigo	indigo	28598		1714
+503	3 jan. 1624	000	nagelen	nagelen	000		1624
+508	3 jan. 1624	50 lasten	rijs	rijst	125000	lb.	1624
+510	3 jan. 1624	30 picol	sijde	sijde	3750	lb.	1624
+521	31 jan. 1705	209284 32i	zijde	zijde	209284		1705
+522	8 febr. 1696	1000 cattys	nagelen	nagelen	1250.0	lb.	1696
+524	8 febr. 1696	245 taylen	silver	silver	18.375	lb.	1696
+526	8 febr. 1696	68 1È	nagelen	nagelen	68		1696
+534	26 dec. 1662	19 lasten	rijs	rijst	47500	lb.	1662
+537	26 dec. 1662	600 picol	peper	peper	75000	lb.	1662
+544	26 dec. 1662	300	gout	goud	300		1662
+550	26 dec. 1662	1400 lasten	rijs	rijst	3500000	lb.	1662
+555	31 jan. 1674	4 schuyten	gout	goud	4	schuit	1674
+560	31 jan. 1674	1600 lasten	rijs	rijst	4000000	lb.	1674
+568	28 maart 1719	12 baaren	thin	thin	6000	lb.	1719
+571	15 jan. 1719	53 pikols	thin	thin	6625	lb.	1719
+597	17 nov. 1674	30	slaven	slaven	30		1674
+598	17 nov. 1674	200	slaven	slaven	200		1674
+599	17 nov. 1674	124 baren	thin	thin	62000	lb.	1674
+601	10 januari 1741	15 lb.	rijst	rijst	15	lb.	1741
+603	10 januari 1741	10 lasten	rijst	rijst	25000	lb.	1741
+604	10 januari 1741	15.278 bossen	padij	padij	15278	bossen	1741
+610	10 januari 1741	1000 candijlen	peeper	peper	500000	lb.	1741
+672	10 januari 1741	666.947 lb.	salpeter	salpeter	666947	lb.	1741
+689	10 januari 1741	7220 lb.	indigo	indigo	7220	lb.	1741
+690	10 januari 1741	2000 lb.	indigo	indigo	2000	lb.	1741
+778	9 jan. 1644	150 lasten	peper	peper	375000	lb.	1644
+779	9 jan. 1644	46 lasten	rijs	rijst	115000	lb.	1644
+786	1 dec. 1703	750 ‘ ffi	rijs	rijst	750		1703
+810	15 dec. 1629	30 bhaer	nagelen	nagelen	15000	lb.	1629
+811	15 dec. 1629	69 caty	peper	peper	86.25	lb.	1629
+821	1 febr. 1623	75000 sacken	peper	peper	75000	zakken	1623
+827	30 december 1752	837 soekels	foelij	foelij	134757	lb.	1752
+830	30 december 1752	13 gantings	rijst	rijst	172.9	lb.	1752
+831	30 december 1752	25.385 bossen	padij	padij	25385	bossen	1752
+832	30 december 1752	4000 picols	peper	peper	500000	lb.	1752
+833	30 december 1752	557.500 lb.	peeper	peper	557500	lb.	1752
+835	30 december 1752	679.144^ lb.	peper	peper	679144		1752
+836	30 december 1752	1.192.524^ lb.	peper	peper	1192		1752
+837	30 december 1752	4 lb.	thin	thin	4	lb.	1752
+838	30 december 1752	377 picols	thin	thin	47125	lb.	1752
+839	30 december 1752	188 picols	peper	peper	23500	lb.	1752
+840	30 december 1752	362^ thailen	goud	goud	362		1752
+841	30 december 1752	57.340 lb.	peper	peper	57340	lb.	1752
+842	30 december 1752	36.502 lb.	thin	thin	36502	lb.	1752
+844	30 december 1752	10 staaven	goud	goud	10	staven	1752
+846	30 december 1752	1.491.875,- lb.	peper	peper	1491		1752
+847	30 december 1752	1.448.945 lb.	thin	thin	1448		1752
+851	30 december 1752	40.000 lb.	sappanhout	sappanhout	40000	lb.	1752
+856	30 december 1752	400.000 lb.	peper	peper	400000	lb.	1752
+868	30 december 1752	105 thailen	silver	silver	7.875	lb.	1752
+884	30 december 1752	256.772 lb.	thin	thin	256772	lb.	1752
+896	30 december 1752	120 thailen	silver	silver	9.0	lb.	1752
+898	30 december 1752	112 thailen	silver	silver	8.4	lb.	1752
+907	30 december 1752	1000 kistjes	koper	koper	1000	kisten	1752
+909	30 december 1752	3000 bhaaren	thin	thin	1500000	lb.	1752
+914	30 december 1752	5 thailen	goud	goud	0.375	lb.	1752
+915	30 december 1752	40 lb.	rijst	rijst	40	lb.	1752
+919	30 december 1752	5500 kistjes	koper	koper	5500	kisten	1752
+933	30 december 1752	25	slaven	slaven	25		1752
+935	30 december 1752	3.639.061 lb.	peper	peper	3639		1752
+946	30 december 1752	4250 lb.	indigo	indigo	4250	lb.	1752
+950	30 december 1752	300 lasten	rijst	rijst	750000	lb.	1752
+951	30 december 1752	3.085.125- lb.	peper	peper	3085		1752
+953	30 december 1752	998.715 lb.	peeper	peper	998715	lb.	1752
+954	30 december 1752	2.697.254 lb.	sappanhout	sappanhout	2697		1752
+976	8 oct. 1674	1200 lasten	rijs	rijst	3000000	lb.	1674
+979	30 jan. 1666	4000 p.ls	peper	peper	500000	lb.	1666
+981	30 jan. 1666	100 picols	sijde	sijde	12500	lb.	1666
+982	30 jan. 1666	ruym 250 picols	sijde	sijde	31250	lb.	1666
+984	30 jan. 1666	6000 tayl	silver	silver	450.0	lb.	1666
+996	30 jan. 1666	400 balen	sijde	sijde	80000	lb.	1666
+1002	30 nov. 1724	40 ponden	rijs	rijst	40	lb.	1724
+1005	31 jan. 1692	24147	slaven	slaven	24147		1692
+1020	12 dec. 1642	89 lasten	peper	peper	222500	lb.	1642
+1021	12 dec. 1642	52 bharen	nagelen	nagelen	26000	lb.	1642
+1025	12 dec. 1642	300 balen	sijde	sijde	60000	lb.	1642
+1033	12 dec. 1642	222	slaven	slaven	222		1642
+1034	12 dec. 1642	116	slaven	slaven	116		1642
+1035	12 dec. 1642	500 000 taylen	silver	silver	500		1642
+1037	12 dec. 1642	500 lasten	peper	peper	1250000	lb.	1642
+1054	30 nov. 1711	7 sacken vuyle	peper	peper	7	zakken	1711
+1059	30 nov. 1711	25000 8	thin	thin	25000		1711
+1063	7 maart 1643	400 lasten	rijs	rijst	1000000	lb.	1643
+1064	7 maart 1643	600 lasten	peper	peper	1500000	lb.	1643
+1065	7 maart 1643	170 lasten	peper	peper	425000	lb.	1643
+1070	13 dec. 1626	200 picol	sijde	sijde	25000	lb.	1626
+1071	13 dec. 1626	70 picol	sijde	sijde	8750	lb.	1626
+1073	13 dec. 1626	350 bharen	peper	peper	175000	lb.	1626
+1074	13 dec. 1626	50 bharen	peper	peper	25000	lb.	1626
+1081	13 dec. 1626	100	rijs	rijst	100		1626
+1095	31 jan. 1670	30 picol	peper	peper	3750	lb.	1670
+1096	31 jan. 1670	700 picol	peper	peper	87500	lb.	1670
+1099	31 oktober 1728	120.000 ®	nagelen	nagelen	120000		1728
+1101	14 jan. 1715	5 kistjes	koper	koper	5	kisten	1715
+1102	14 jan. 1715	133552	koper	koper	133552		1715
+1104	14 jan. 1715	15300 ®	thin	thin	15300		1715
+1105	14 jan. 1715	20 290360 ®	peper	peper	20		1715
+1106	14 jan. 1715	2389 ponden	nagelen	nagelen	2389	lb.	1715
+1113	28 febr. 1687	500 p.1	peper	peper	62500	lb.	1687
+1114	28 febr. 1687	300 p.ls	peper	peper	37500	lb.	1687
+1119	31 december 1751	4938 picols	sappanhout	sappanhout	617250	lb.	1751
+1120	31 december 1751	150 lasten	rijst	rijst	375000	lb.	1751
+1121	31 december 1751	391 gantings	rijst	rijst	5200.3	lb.	1751
+1122	31 december 1751	31.756 bossen	padij	padij	31756	bossen	1751
+1123	31 december 1751	18 gantings	rijst	rijst	239.4	lb.	1751
+1124	31 december 1751	4521 bossen	padij	padij	4521	bossen	1751
+1138	31 december 1751	564.937 lb.	peeper	peper	564937	lb.	1751
+1140	31 december 1751	1000 picols	thin	thin	125000	lb.	1751
+1141	31 december 1751	5489-^ picols	peper	peper	5489		1751
+1143	31 december 1751	1.167.959 lb.	peper	peper	1167		1751
+1144	31 december 1751	1.200.000 lb.	thin	thin	1200		1751
+1159	31 december 1751	5750 picols	thee	thee	718750	lb.	1751
+1169	31 december 1751	308.375 lb.	thin	thin	308375	lb.	1751
+1172	31 december 1751	7000 picols	peper	peper	875000	lb.	1751
+1173	31 december 1751	1.200.000 lb.	thin	thin	1200		1751
+1184	31 december 1751	15 thailen	goud	goud	1.125	lb.	1751
+1212	31 december 1751	2 soekels	foelij	foelij	322	lb.	1751
+1226	31 december 1751	4875 lb.	indigo	indigo	4875	lb.	1751
+1227	31 december 1751	903.631 lb.	peeper	peper	903631	lb.	1751
+1230	31 december 1751	1.065.938 lb.	peeper	peper	1065		1751
+1233	31 december 1751	1.373.571 lb.	thin	thin	1373		1751
+1236	31 december 1751	9059 lb.	indigo	indigo	9059	lb.	1751
+1244	31 december 1751	476 soekels	foelij	foelij	76636	lb.	1751
+1249	31 december 1751	8.314 lb.	indigo	indigo	8314	lb.	1751
+1253	20 nov. 1713	10 balen	canneel	kaneel	2000	lb.	1713
+1256	20 nov. 1713	70 balen	zijde	zijde	14000	lb.	1713
+1258	20 nov. 1713	100 lasten	rijs	rijst	250000	lb.	1713
+1261	30 nov. 1719	250 bhaaren	peper	peper	125000	lb.	1719
+1267	28 febr. 1675	3.933.519	canneel	kaneel	3933		1675
+1268	28 febr. 1675	6.609.902 ®	canneel	kaneel	6609		1675
+1278	12 december 1739. Kopie	10 lasten	rijst	rijst	25000	lb.	1739
+1279	12 december 1739. Kopie	6 lasten	rijst	rijst	15000	lb.	1739
+1281	12 december 1739. Kopie	120 gantings	rijst	rijst	1596.0	lb.	1739
+1283	12 december 1739. Kopie	16 stukken	padij	padij	16	stuks	1739
+1284	12 december 1739. Kopie	100 lb.	goud	goud	100	lb.	1739
+1324	12 december 1739. Kopie	1000 coyangs	rijst	rijst	1625000	lb.	1739
+1337	14 februari 1732	15.000 kisten	koper	koper	15000	kisten	1732
+1339	14 februari 1732	15 bharen ronde	peper	peper	7500	lb.	1732
+1341	14 februari 1732	385 bharen	thin	thin	192500	lb.	1732
+1347	14 februari 1732	61.494 lb	thin	thin	61494	lb.	1732
+1351	14 februari 1732	93 kisten	silver	silver	93	kisten	1732
+1355	14 februari 1732	500 lb	peper	peper	500	lb.	1732
+1359	8 maart 1686	100 kloeke	slaven	slaven	100	stuks	1686
+1362	8 maart 1686	180	slaven	slaven	180		1686
+1363	4 sept. 1703	19000 sacken	salpeter	salpeter	19000	zakken	1703
+1365	4 sept. 1703	37 ®	canneel	kaneel	37		1703
+1366	30 nov. 1716	4 sacken	rijst	rijst	4	zakken	1716
+1368	30 nov. 1716	140 picols	peper	peper	17500	lb.	1716
+1374	31 december 1744	10 lasten	rijst	rijst	25000	lb.	1744
+1375	31 december 1744	1000 bossen	padij	padij	1000	bossen	1744
+1379	31 december 1744	10.000 kisten	koper	koper	10000	kisten	1744
+1380	31 december 1744	10.000 kisten	koper	koper	10000	kisten	1744
+1381	31 december 1744	14 lasten	rijst	rijst	35000	lb.	1744
+1386	31 december 1744	48 1 lb.	peeper	peper	48		1744
+1388	31 december 1744	24.000 lb.	peeper	peper	24000	lb.	1744
+1391	31 december 1744	348 lb.	peeper	peper	348	lb.	1744
+1395	31 december 1744	1\	canneel	kaneel	1		1744
+1400	31 december 1744	18	peeper	peper	18		1744
+1402	31 december 1744	2050 2970 920	rijs	rijst	2050		1744
+1407	12 januari 1740	205 lasten	rijst	rijst	512500	lb.	1740
+1410	12 januari 1740	8 lasten	rijst	rijst	20000	lb.	1740
+1412	12 januari 1740	40 lb.	rijst	rijst	40	lb.	1740
+1458	12 januari 1740	43.120 lb.	foelij	foelij	43120	lb.	1740
+1483	26 dec. 1637	100 picols	sijde	sijde	12500	lb.	1637
+1487	15 oktober 1756	625 balen	peper	peper	125000	lb.	1756
+1490	15 oktober 1756	80.000 lb.	foelij	foelij	80000	lb.	1756
+1494	12 dec. 1641	190 lasten	peper	peper	475000	lb.	1641
+1495	12 dec. 1641	800 balen	sijde	sijde	160000	lb.	1641
+1499	12 dec. 1641	300 balen	sijde	sijde	60000	lb.	1641
+1500	12 dec. 1641	200	sijde	sijde	200		1641
+1501	12 dec. 1641	220 lasten	peper	peper	550000	lb.	1641
+1504	12 dec. 1641	600 balen	sijde	sijde	120000	lb.	1641
+1511	12 dec. 1641	170 lasten	peper	peper	425000	lb.	1641
+1540	13 maart 1680	10 coyanghs	padij	padij	16250	lb.	1680
+1541	13 maart 1680	4 lasten	rijs	rijst	10000	lb.	1680
+1543	13 maart 1680	200 p.ls	sappanhout	sappanhout	25000	lb.	1680
+1545	13 maart 1680	14	salpeter	salpeter	14		1680
+1546	13 maart 1680	8000 man	salpeter	salpeter	400000	lb.	1680
+1549	13 maart 1680	1500 packen	canneel	kaneel	1500	pakken	1680
+1558	16 dec. 1660	40 ®	rijs	rijst	40		1660
+1561	16 dec. 1660	114 tail	gout	goud	8.549999999999999	lb.	1660
+1562	16 dec. 1660	15919 catty	peper	peper	19898.75	lb.	1660
+1563	16 dec. 1660	660 tail	gout	goud	49.5	lb.	1660
+1564	16 dec. 1660	8097 catti	peper	peper	10121.25	lb.	1660
+1567	16 dec. 1660	3695 stucx	rijs	rijst	3695	stuks	1660
+1570	16 dec. 1660	180 lasten	rijs	rijst	450000	lb.	1660
+1584	31 december 1745	88| lb.	rijst	rijst	88		1745
+1589	31 december 1745	1000 lb.	thin	thin	1000	lb.	1745
+1595	31 december 1745	10.000 kisten	koper	koper	10000	kisten	1745
+1596	31 december 1745	0.000 kisten	koper	koper	0000	kisten	1745
+1597	31 december 1745	48	thin	thin	48		1745
+1623	31 december 1745	6000 balen	canneel	kaneel	1200000	lb.	1745
+1625	31 december 1745	600.000 lb.	peper	peper	600000	lb.	1745
+1627	31 december 1745	50.000 lb.	peper	peper	50000	lb.	1745
+1629	31 december 1745	20.000 lb.	peper	peper	20000	lb.	1745
+1635	31 december 1745	616 lb.	foelij	foelij	616	lb.	1745
+1646	31 december 1745	1242 lb.	nagelen	nagelen	1242	lb.	1745
+1656	31 december 1745	100.000 lb.	peper	peper	100000	lb.	1745
+1657	31 december 1745	12.500 lb.	koper	koper	12500	lb.	1745
+1663	31 december 1745	462 lb.	foelij	foelij	462	lb.	1745
+1671	31 december 1745	10.224.200 lb.	rijst	rijst	10224		1745
+1672	31 december 1745	5885 lb.	indigo	indigo	5885	lb.	1745
+1704	31 december 1745	125 lasten	rijs	rijst	312500	lb.	1745
+1707	31 december 1745	5750 lb.	indigo	indigo	5750	lb.	1745
+1708	15 jan. 1721	1600 picols	peper	peper	200000	lb.	1721
+1709	15 jan. 1721	37 ©	nagelen	nagelen	37		1721
+1711	15 jan. 1721	10 cattys	silver	silver	12.5	lb.	1721
+1715	17 dec. 1657	50 bhaer	peper	peper	25000	lb.	1657
+1716	17 dec. 1657	600 bharen	thin	thin	300000	lb.	1657
+1718	17 dec. 1657	670 bhaer	canneel	kaneel	335000	lb.	1657
+1721	17 dec. 1657	62 lasten	rijs	rijst	155000	lb.	1657
+1726	17 dec. 1657	35 000 tail	silver	silver	35		1657
+1748	19 jan. 1697	3171	slaven	slaven	3171		1697
+1749	19 jan. 1697	281165	silver	silver	281165		1697
+1750	19 jan. 1697	300	rijs	rijst	300		1697
+1751	19 jan. 1697	1900 candylen	peper	peper	950000	lb.	1697
+1754	19 jan. 1697	53 £	rijs	rijst	53		1697
+1757	19 jan. 1697	955750	peper	peper	955750		1697
+1759	25 nov. 1708	300 bharen	thin	thin	150000	lb.	1708
+1763	25 nov. 1708	1000 picols	peper	peper	125000	lb.	1708
+1765	25 nov. 1708	798 balen	canneel	kaneel	159600	lb.	1708
+1775	31 december 1756	546 sockels	foelij	foelij	87906	lb.	1756
+1777	31 december 1756	267 sockels	foelij	foelij	42987	lb.	1756
+1779	31 december 1756	172 sockels	foelij	foelij	27692	lb.	1756
+1783	31 december 1756	215 lasten	rijst	rijst	537500	lb.	1756
+1784	31 december 1756	5996 bossen	padij	padij	5996	bossen	1756
+1785	31 december 1756	300 lasten	rijst	rijst	750000	lb.	1756
+1786	31 december 1756	6000 bossen	padij	padij	6000	bossen	1756
+1787	31 december 1756	1230 picols	sappanhout	sappanhout	153750	lb.	1756
+1791	31 december 1756	228 gantings	rijst	rijst	3032.4	lb.	1756
+1792	31 december 1756	1804 bossen	padij	padij	1804	bossen	1756
+1795	31 december 1756	207 lasten	rijst	rijst	517500	lb.	1756
+1796	31 december 1756	7800 bossen	padij	padij	7800	bossen	1756
+1797	31 december 1756	268 gantings	rijst	rijst	3564.4	lb.	1756
+1798	31 december 1756	3631 bossen	padij	padij	3631	bossen	1756
+1799	31 december 1756	228 gantings	rijst	rijst	3032.4	lb.	1756
+1800	31 december 1756	1804 bossen	padij	padij	1804	bossen	1756
+1802	31 december 1756	21.005 bossen	padij	padij	21005	bossen	1756
+1803	31 december 1756	13 lasten	rijst	rijst	32500	lb.	1756
+1804	31 december 1756	4639 bossen	padij	padij	4639	bossen	1756
+1823	31 december 1756	688.000	rijst	rijst	688000		1756
+1824	31 december 1756	273.750	sappanhout	sappanhout	273750		1756
+1826	31 december 1756	392	indigo	indigo	392		1756
+1828	31 december 1756	1000	slaven	slaven	1000		1756
+1829	31 december 1756	700 lasten	rijst	rijst	1750000	lb.	1756
+1831	31 december 1756	41	rijst	rijst	41		1756
+1832	31 december 1756	50.000 lb.	sappanhout	sappanhout	50000	lb.	1756
+1833	31 december 1756	10.904	thin	thin	10904		1756
+1840	31 december 1756	400.000 lb.	sappanhout	sappanhout	400000	lb.	1756
+1841	31 december 1756	62.683	thin	thin	62683		1756
+1845	31 december 1756	3224 picols	thee	thee	403000	lb.	1756
+1848	31 december 1756	1000 bharen	thin	thin	500000	lb.	1756
+1849	31 december 1756	thailen 5540,- schaars	goud	goud	5540,		1756
+1875	31 december 1756	40.000 lb.	salpeter	salpeter	40000	lb.	1756
+1877	31 december 1756	5000 stux	peper	peper	5000	stuks	1756
+1879	31 december 1756	1000 candijlen	peeper	peper	500000	lb.	1756
+1880	31 december 1756	100 candijlen	peeper	peper	50000	lb.	1756
+1887	31 december 1756	1875 lb.	indigo	indigo	1875	lb.	1756
+1892	31 december 1756	7000 lb.	peeper	peper	7000	lb.	1756
+1894	31 december 1756	9625 lb.	indigo	indigo	9625	lb.	1756
+1896	31 december 1756	4190 bossen	padij	padij	4190	bossen	1756
+1898	31 december 1756	1039 balen	canneel	kaneel	207800	lb.	1756
+1899	31 december 1756	2250 lb.	nagelen	nagelen	2250	lb.	1756
+1901	31 december 1756	62.500	peeper	peper	62500		1756
+1906	31 december 1756	4000 lb.	canneel	kaneel	4000	lb.	1756
+1911	10 dec. 1690	100 bharen	peper	peper	50000	lb.	1690
+1912	22 dec. 1661	10	rijs	rijst	10		1661
+1924	23 dec. 1644	20 picols	thin	thin	2500	lb.	1644
+1932	23 dec. 1644	100 catty	silver	silver	125.0	lb.	1644
+1936	23 dec. 1644	3 picols	thin	thin	375	lb.	1644
+1937	23 dec. 1644	2 bhaer	peper	peper	1000	lb.	1644
+1939	23 dec. 1644	3 bharen	thin	thin	1500	lb.	1644
+1941	23 dec. 1644	700 balen	sijde	sijde	140000	lb.	1644
+1944	16 febr. 1669	4 stuckjes	gout	goud	4	stuks	1669
+1947	18 jan. 1649	40 lasten	rijs	rijst	100000	lb.	1649
+1952	18 jan. 1649	20 000	nagelen	nagelen	20		1649
+1955	18 jan. 1649	400 balen	sijde	sijde	80000	lb.	1649
+1956	18 jan. 1649	37 bael	sijde	sijde	7400	lb.	1649
+1957	18 jan. 1649	6 tonnen	gout	goud	12000	lb.	1649
+1958	18 jan. 1649	61 000 ®	peper	peper	61		1649
+1959	18 jan. 1649	42 balen	sijde	sijde	8400	lb.	1649
+1965	18 jan. 1649	100 ponden	rijs	rijst	100	lb.	1649
+1967	18 jan. 1649	1200 000 ponden	peper	peper	1200		1649
+1972	18 jan. 1649	3000picol	peper	peper	375000	lb.	1649
+1973	18 jan. 1649	384 lasten	rijs	rijst	960000	lb.	1649
+1976	18 jan. 1649	60 bharen	nagelen	nagelen	30000	lb.	1649
+1980	18 jan. 1649	20	zijde	zijde	20		1649
+1982	8 januari 1686	2200	rijs	rijst	2200		1686
+1989	13 sept. 1625	300 bhaer	nagelen	nagelen	150000	lb.	1625
+1990	19 dec. 1671	70 lasten	rijs	rijst	175000	lb.	1671
+1994	19 dec. 1671	200 bharen	thin	thin	100000	lb.	1671
+2003	19 dec. 1671	1302 lasten	rijs	rijst	3255000	lb.	1671
+2004	19 dec. 1671	800 lasten	rijs	rijst	2000000	lb.	1671
+2005	31 januari 1728	1500	slaven	slaven	1500		1728
+2007	24 jan. 1652	50 bharen	thin	thin	25000	lb.	1652
+2009	24 jan. 1652	400	rijs	rijst	400		1652
+2012	24 jan. 1652	686 packen	zijde	zijde	686	pakken	1652
+2021	24 jan. 1652	100 picol	nagelen	nagelen	12500	lb.	1652
+2027	19 febr. 1716	15 koyangs	peper	peper	24375	lb.	1716
+2028	19 febr. 1716	125	thin	thin	125		1716
+2029	19 febr. 1716	10 kattys	goud	goud	12.5	lb.	1716
+2034	8 maart 1621	200 picol	peper	peper	25000	lb.	1621
+2046	16 dec. 1659	300 bhaeren	thin	thin	150000	lb.	1659
+2063	15 maart 1746	50 coyangs	rijst	rijst	81250	lb.	1746
+2066	15 maart 1746	25 balen	canneel	kaneel	5000	lb.	1746
+2070	22 april 1662	108 \	zijde	zijde	108		1662
+2071	22 april 1662	335 balen	zijde	zijde	67000	lb.	1662
+2072	22 april 1662	97	zijde	zijde	97		1662
+2073	22 april 1662	101	zijde	zijde	101		1662
+2074	22 april 1662	400 packen	zijde	zijde	400	pakken	1662
+2077	24 dec. 1652	30 bhaer	nagelen	nagelen	15000	lb.	1652
+2078	24 dec. 1652	10	rijs	rijst	10		1652
+2079	24 dec. 1652	200 bharen	nagelen	nagelen	100000	lb.	1652
+2081	24 dec. 1652	22	slaven	slaven	22		1652
+2086	24 dec. 1652	6 lasten	rijs	rijst	15000	lb.	1652
+2088	24 dec. 1652	1000 lasten	rijs	rijst	2500000	lb.	1652
+2090	24 dec. 1652	4539§	rijs	rijst	4539		1652
+2103	24 dec. 1652	27 stucx	slaven	slaven	27	stuks	1652
+2108	24 dec. 1652	40 lasten	rijs	rijst	100000	lb.	1652
+2115	6 febr. 1645	1000 lasten	rijs	rijst	2500000	lb.	1645
+2122	8 dec. 1693	18 stux	slaven	slaven	18	stuks	1693
+2124	8 dec. 1693	75 lasten	peper	peper	187500	lb.	1693
+2136	28 dec. 1636	5	gout	goud	5		1636
+2139	28 dec. 1636	744 baelen	zijde	zijde	148800	lb.	1636
+2140	28 dec. 1636	320 baelen	zijde	zijde	64000	lb.	1636
+2141	28 dec. 1636	50 000 pont	nagelen	nagelen	50		1636
+2142	28 dec. 1636	200 picols	peper	peper	25000	lb.	1636
+2153	28 dec. 1636	700 picols	peper	peper	87500	lb.	1636
+2154	28 dec. 1636	200 schuyten	silver	silver	200	schuit	1636
+2156	28 dec. 1636	2350 kisten	silver	silver	2350	kisten	1636
+2158	28 dec. 1636	700 picols	zijde	zijde	87500	lb.	1636
+2174	30 nov. 1706	11216	rijst	rijst	11216		1706
+2177	30 nov. 1706	74 picols	peeper	peper	9250	lb.	1706
+2178	30 nov. 1706	200 picols	peeper	peper	25000	lb.	1706
+2183	30 nov. 1706	6000	canneel	kaneel	6000		1706
+2184	30 nov. 1706	57 balen	indigo	indigo	11400	lb.	1706
+2185	29 juli 1627	1000 picol	sijde	sijde	125000	lb.	1627
+2187	29 juli 1627	20 000 sacken	peper	peper	20		1627
+2188	29 juli 1627	40 000 sacken	peper	peper	40		1627
+2190	30 november 1729	244/s reaal	goud	goud	244		1729
+2196	30 november 1729	136 lasten	rijs	rijst	340000	lb.	1729
+2197	30 november 1729	1000 lasten	rijs	rijst	2500000	lb.	1729
+2198	30 november 1729	44.000	goud	goud	44000		1729
+2200	30 november 1729	110	rijs	rijst	110		1729
+2216	30 november 1729	3904 lb	peper	peper	3904	lb.	1729
+2217	30 november 1729	10.000 lb	peper	peper	10000	lb.	1729
+2227	30 november 1729	320 lb	foelij	foelij	320	lb.	1729
+2230	12 juli 1655	28 lasten	rijs	rijst	70000	lb.	1655
+2232	14 april 1647	17	peper	peper	17		1647
+2233	14 april 1647	6000 picols	peper	peper	750000	lb.	1647
+2234	14 april 1647	6000 tail	silver	silver	450.0	lb.	1647
+2242	4 maart 1624	76 cattij	peper	peper	95.0	lb.	1624
+2255	30 nov. 1697	300 carga	zijde	zijde	126900	lb.	1697
+2263	30 nov. 1709	20 stux	slaven	slaven	20	stuks	1709
+2264	30 nov. 1709	300	slaven	slaven	300		1709
+2267	30 nov. 1709	200 cand.1 2	peper	peper	100000	lb.	1709
+2268	5 oktober 1752	45 lasten	rijst	rijst	112500	lb.	1752
+2272	5 oktober 1752	500 balen	canneel	kaneel	100000	lb.	1752
+2273	5 oktober 1752	128 sockels	foelij	foelij	20608	lb.	1752
+2276	5 oktober 1752	217.911 lb.	thee	thee	217911	lb.	1752
+2280	19 jan. 1723	10000 p.ls	koper	koper	1250000	lb.	1723
+2287	11 dec. 1692	495	slaven	slaven	495		1692
+2303	12 november 1745	1.456.275 lb	thee	thee	1456		1745
+2308	31 jan. 1657	60 packen	sijde	sijde	60	pakken	1657
+2310	31 jan. 1657	5 kisten	silver	silver	5	kisten	1657
+2312	31 jan. 1657	40 schuyten	silver	silver	40	schuit	1657
+2322	31 jan. 1657	100 kisten	silver	silver	100	kisten	1657
+2324	31 jan. 1657	15 bharen	thin	thin	7500	lb.	1657
+2328	31 jan. 1657	1600	slaven	slaven	1600		1657
+2329	31 jan. 1657	80000 tholas	gout	goud	28800.0	lb.	1657
+2331	31 jan. 1657	40 ®	rijs	rijst	40		1657
+2338	20 jan. 1651	437 \ catty	sijde	sijde	437		1651
+2339	20 jan. 1651	375 catty	sijde	sijde	468.75	lb.	1651
+2342	20 jan. 1651	5000 picol	thin	thin	625000	lb.	1651
+2343	20 jan. 1651	4 kisten	silver	silver	4	kisten	1651
+2344	20 jan. 1651	9 kisten	silver	silver	9	kisten	1651
+2349	20 jan. 1651	20000	thin	thin	20000		1651
+2359	20 jan. 1651	50 p.1	nagelen	nagelen	6250	lb.	1651
+2362	20 jan. 1651	200 picol	peper	peper	25000	lb.	1651
+2365		381-	peper	peper	381
+2367		582-	rijst	rijst	582
+2368	11 dec. 1685	4269	slaven	slaven	4269		1685
+2371	11 dec. 1685	1505	slaven	slaven	1505		1685
+2374	11 dec. 1685	30 balen	rijs	rijst	6000	lb.	1685
+2375	11 dec. 1685	400 bharen	thin	thin	200000	lb.	1685
+2377	11 dec. 1685	2000 candylen	peper	peper	1000000	lb.	1685
+2380	11 dec. 1685	87	foelij	foelij	87		1685
+2383	11 dec. 1685	42	peper	peper	42		1685
+2384	11 dec. 1685	13	thin	thin	13		1685
+2394	2 februari 1731	7.227 lb	nagelen	nagelen	7227	lb.	1731
+2396	2 februari 1731	8 picols	thin	thin	1000	lb.	1731
+2397	2 februari 1731	200 lasten	rijs	rijst	500000	lb.	1731
+2398	2 februari 1731	6	foelij	foelij	6		1731
+2399	2 februari 1731	6	canneel	kaneel	6		1731
+2402	2 februari 1731	2.110	rijs	rijst	2110		1731
+2407	2 februari 1731	600	zijde	zijde	600		1731
+2414	2 februari 1731	481.125	peper	peper	481125		1731
+2421	5 december 1726	100 staven	silver	silver	100	staven	1726
+2422	15 jan. 1710	p.18	peper	peper	18		1710
+2423	15 jan. 1710	1000 man	salpeter	salpeter	50000	lb.	1710
+2434	21 dec. 1678	152	gout	goud	152		1678
+2439	28 dec. 1681	4).de	nagelen	nagelen	4		1681
+2441	21 dec. 1663	27 kisten	silver	silver	27	kisten	1663
+2442	21 dec. 1663	27 kisten	silver	silver	27	kisten	1663
+2448	10 dec. 1650	500 candy	peper	peper	250000	lb.	1650
+2449	10 dec. 1650	150 candy	rijs	rijst	75000	lb.	1650
+2450	10 dec. 1650	1600 candy	salpeter	salpeter	800000	lb.	1650
+2473	10 dec. 1650	12 kisten	silver	silver	12	kisten	1650
+2474	10 dec. 1650	500 picol	sijde	sijde	62500	lb.	1650
+2475	10 dec. 1650	405 picol	sijde	sijde	50625	lb.	1650
+2476	10 dec. 1650	365 picol	sijde	sijde	45625	lb.	1650
+2479	10 dec. 1650	150 lasten	rijs	rijst	375000	lb.	1650
+2480	10 dec. 1650	1050 bharen	peper	peper	525000	lb.	1650
+2481	10 dec. 1650	300 bharen	peper	peper	150000	lb.	1650
+2484	31 maart 1738	200 bharen	thin	thin	100000	lb.	1738
+2485	31 maart 1738	500 cattijs	silver	silver	625.0	lb.	1738
+2488	31 maart 1738	60 lasten	rijs	rijst	150000	lb.	1738
+2490	31 maart 1738	80 lasten	rijs	rijst	200000	lb.	1738
+2499	31 maart 1738	235 stux	koper	koper	235	stuks	1738
+2501	31 maart 1738	12 lb.	peper	peper	12	lb.	1738
+2503	31 maart 1738	4 lb.	foelij	foelij	4	lb.	1738
+2505	31 maart 1738	3 lb.	foelij	foelij	3	lb.	1738
+2506	31 maart 1738	36 lb.	peper	peper	36	lb.	1738
+2509	30 nov. 1707	30000 p >	peper	peper	3750000	lb.	1707
+2511	30 nov. 1707	600 lasten	rijs	rijst	1500000	lb.	1707
+2514	30 nov. 1707	25 sockels	foelij	foelij	4025	lb.	1707
+2524	1 dec. 1632	88	slaven	slaven	88		1632
+2530	1 dec. 1632	4982 picol	peeper	peper	622750	lb.	1632
+2533	1 dec. 1632	2 packgiens	nagelen	nagelen	2	pakken	1632
+2535	1 dec. 1632	20 lasten	rijs	rijst	50000	lb.	1632
+2536	1 dec. 1632	50 picol	peper	peper	6250	lb.	1632
+2537	1 dec. 1632	7	nagelen	nagelen	7		1632
+2598	29 april 1761	580.842 lb.	sappanhout	sappanhout	580842	lb.	1761
+2627	29 april 1761	4 kisten97.295 lb.	indigo	indigo	4	kisten	1761
+2644	13 dec. 1686	4200	slaven	slaven	4200		1686
+2651	13 dec. 1686	6000 p.18	peper	peper	750000	lb.	1686
+2674		9340 lb	rijs	rijst	9340	lb.
+2683		8	silver	silver	8
+2690		1836 lb	koper	koper	1836	lb.
+2693		1000 coyangs	rijs	rijst	1625000	lb.
+2694		190	slaven	slaven	190
+2697		15 -Aan	peper	peper	15
+2714		3031 balen	canneel	kaneel	606200	lb.
+2715		3 kistjes	goud	goud	3	kisten
+2723		6750 lb	indigo	indigo	6750	lb.
+2727		305 lasten	rijst	rijst	762500	lb.
+2732		90 lasten	rijs	rijst	225000	lb.
+2734		26 lasten	rijs	rijst	65000	lb.
+2735		200 lasten	rijs	rijst	500000	lb.
+2737		50 bharen	peper	peper	25000	lb.
+2739		15 lb	rijst	rijst	15	lb.
+2748		1000 kisten	koper	koper	1000	kisten
+2752		58 kisten	nagelen	nagelen	58	kisten
+2762	19 jan. 1654	11 513 picol	peper	peper	11		1654
+2769	19 jan. 1654	2 picol	peper	peper	250	lb.	1654
+2772	19 jan. 1654	90 lasten	rijs	rijst	225000	lb.	1654
+2776	19 jan. 1654	10 tail	silver	silver	0.75	lb.	1654
+2777	19 jan. 1654	53 kisten	silver	silver	53	kisten	1654
+2779	19 jan. 1654	39 packen	zijde	zijde	39	pakken	1654
+2785	19 jan. 1654	42 packen	zijde	zijde	42	pakken	1654
+2789	19 jan. 1654	10 schuyten	silver	silver	10	schuit	1654
+2790	19 jan. 1654	43 packen	zijde	zijde	43	pakken	1654
+2798	19 jan. 1654	25 tonnen	gout	goud	50000	lb.	1654
+2799	19 jan. 1654	480	silver	silver	480		1654
+2801	19 jan. 1654	4632 man	salpeter	salpeter	231600	lb.	1654
+2814	1 dec. 1700	18 p.8	slaven	slaven	2250	lb.	1700
+2818	1 dec. 1700	200 lasten	rijst	rijst	500000	lb.	1700
+2822	8 april 1751	11.000 kisten	koper	koper	11000	kisten	1751
+2824	8 april 1751	5700 kisten	koper	koper	5700	kisten	1751
+2828	8 april 1751	140.500 lb.	thee	thee	140500	lb.	1751
+2838	30 dec. 1689	2691	slaven	slaven	2691		1689
+2849	15 jan. 1720	11923 sacken	salpeter	salpeter	11923	zakken	1720
+2855	9 dec. 1637	1200 baelen	sijde	sijde	240000	lb.	1637
+2858	9 dec. 1637	60 catty	silver	silver	75.0	lb.	1637
+2859	9 dec. 1637	2000	peper	peper	2000		1637
+2860	9 dec. 1637	38 000 sacken	peper	peper	38		1637
+2864	9 dec. 1637	300 lasten	rijs	rijst	750000	lb.	1637
+2872	9 dec. 1637	200	salpeter	salpeter	200		1637
+2878	9 dec. 1637	pack,300 bhaar	salpeter	salpeter	150000	lb.	1637
+2886	9 dec. 1637	1500 bhaer	peper	peper	750000	lb.	1637
+2887	9 dec. 1637	600 bhaer	peper	peper	300000	lb.	1637
+2895	9 dec. 1637	20 lasten	rijs	rijst	50000	lb.	1637
+2898	9 dec. 1637	1/4 catty	rijs	rijst	1		1637
+2899	9 dec. 1637	20 lasten	rijs	rijst	50000	lb.	1637
+2905	9 dec. 1637	11.8	gout	goud	118		1637
+2908	9 dec. 1637	540 picol	peper	peper	67500	lb.	1637
+2913	9 dec. 1637	40 picols	peper	peper	5000	lb.	1637
+2929	24 nov. 1677	25 tonnen	gout	goud	50000	lb.	1677
+2932	24 nov. 1677	48894 ®	peeper	peper	48894		1677
+2933	24 nov. 1677	36488	koper	koper	36488		1677
+2935	24 nov. 1677	29 ®	gout	goud	29		1677
+2936	24 nov. 1677	600000 ®	thin	thin	600000		1677
+2939	24 nov. 1677	53000	peper	peper	53000		1677
+2944	24 nov. 1677	25 teylen	gout	goud	1.875	lb.	1677
+2949	8 jan. 1641	300 lasten	peper	peper	750000	lb.	1641
+2965	1 oktober 1753	25.718 lb.	foelij	foelij	25718	lb.	1753
+2969	1 oktober 1753	105.298 lb.	foelij	foelij	105298	lb.	1753
+2971	1 oktober 1753	119.397^ lb.	foelij	foelij	119397		1753
+2972	1 oktober 1753	474 lb.	foelij	foelij	474	lb.	1753
+2975	1 oktober 1753	450 lasten	rijst	rijst	1125000	lb.	1753
+2976	1 oktober 1753	5059| realen	goud	goud	5059		1753
+2978	1 oktober 1753	278	rijst	rijst	278		1753
+2980	1 oktober 1753	7624 bossen	padij	padij	7624	bossen	1753
+2981	1 oktober 1753	294 gantings	rijst	rijst	3910.2000000000003	lb.	1753
+2982	1 oktober 1753	15.000 bossen	padij	padij	15000	bossen	1753
+2983	1 oktober 1753	119 gantings	rijst	rijst	1582.7	lb.	1753
+2984	1 oktober 1753	10.385 bossen	padij	padij	10385	bossen	1753
+2985	1 oktober 1753	233.260 bossen	padij	padij	233260	bossen	1753
+2986	1 oktober 1753	200 lasten	rijst	rijst	500000	lb.	1753
+2991	1 oktober 1753	122.666§ lb.	rijst	rijst	122666		1753
+2994	1 oktober 1753	68 stux	slaven	slaven	68	stuks	1753
+2996	1 oktober 1753	72	slaven	slaven	72		1753
+3004	1 oktober 1753	102 pees	slaven	slaven	102	stuks	1753
+3006	1 oktober 1753	25 lasten	rijst	rijst	62500	lb.	1753
+3009	1 oktober 1753	50.000 lb.	sappanhout	sappanhout	50000	lb.	1753
+3019	1 oktober 1753	1.631.919 lb.	peeper	peper	1631		1753
+3049	1 oktober 1753	601^ realen	goud	goud	601		1753
+3051	1 oktober 1753	83 bharen	thin	thin	41500	lb.	1753
+3052	1 oktober 1753	19§ coyangs	rijst	rijst	19		1753
+3053	1 oktober 1753	1600 bharen	thin	thin	800000	lb.	1753
+3059	1 oktober 1753	2292 lb.	canneel	kaneel	2292	lb.	1753
+3060	1 oktober 1753	30 thailen	goud	goud	2.25	lb.	1753
+3063	1 oktober 1753	100 lb.	rijst	rijst	100	lb.	1753
+3069	1 oktober 1753	16.441,13,881.332.759 lb.	salpeter	salpeter	16441		1753
+3073	1 oktober 1753	30 balen	sijde	sijde	6000	lb.	1753
+3077	1 oktober 1753	25.000 lb.	sappanhout	sappanhout	25000	lb.	1753
+3101	1 oktober 1753	ƒ39.210,1,8	peeper	peper	39210		1753
+3116	1 oktober 1753	125 lasten	rijst	rijst	312500	lb.	1753
+3130	1 oktober 1753	867 lasten	rijst	rijst	2167500	lb.	1753
+3155	1 oktober 1753	1048 lasten	rijst	rijst	2620000	lb.	1753
+3159	1 oktober 1753	8050 lb.	indigo	indigo	8050	lb.	1753
+3170	1 oktober 1753	3876 lb.	indigo	indigo	3876	lb.	1753
+3182	1 oktober 1753	66.515 lb.	salpeter	salpeter	66515	lb.	1753
+3189	1 oktober 1753	148.406 lb.	peeper	peper	148406	lb.	1753
+3190	1 oktober 1753	7228 lb.	indigo	indigo	7228	lb.	1753
+3194	1 oktober 1753	100.000 lb.	foelij	foelij	100000	lb.	1753
+3201	1 oktober 1753	200.000 lb.	salpeter	salpeter	200000	lb.	1753
+3203	1 oktober 1753	100.000 lb.	peper	peper	100000	lb.	1753
+3205	1 oktober 1753	100 lb.	koper	koper	100	lb.	1753
+3207	1 oktober 1753	68 sockels	foelij	foelij	10948	lb.	1753
+3209	1 oktober 1753	1000 sockels	foelij	foelij	161000	lb.	1753
+3218	1 oktober 1753	189öf reaalen	goud	goud	189		1753
+3225	1 oktober 1753	6 lasten	rijst	rijst	15000	lb.	1753
+3226	1 oktober 1753	1804 bossen	padij	padij	1804	bossen	1753
+3227	1 oktober 1753	2845 bossen	padij	padij	2845	bossen	1753
+3228	1 oktober 1753	200 gantings	rijst	rijst	2660.0	lb.	1753
+3229	1 oktober 1753	16.059 bossen	padij	padij	16059	bossen	1753
+3230	1 oktober 1753	70 lasten	rijst	rijst	175000	lb.	1753
+3231	1 oktober 1753	1059 bossen	padij	padij	1059	bossen	1753
+3232	1 oktober 1753	194.103 bossen	padij	padij	194103	bossen	1753
+3233	1 oktober 1753	200 lasten	rijst	rijst	500000	lb.	1753
+3234	1 oktober 1753	400 lasten	rijst	rijst	1000000	lb.	1753
+3235	1 oktober 1753	6000 bossen	padij	padij	6000	bossen	1753
+3236	1 oktober 1753	200 lasten	rijst	rijst	500000	lb.	1753
+3237	1 oktober 1753	100 lasten	rijst	rijst	250000	lb.	1753
+3238	1 oktober 1753	46 lasten	rijst	rijst	115000	lb.	1753
+3240	1 oktober 1753	50 lasten	rijst	rijst	125000	lb.	1753
+3244	1 oktober 1753	15 thailen	goud	goud	1.125	lb.	1753
+3245	1 oktober 1753	200	slaven	slaven	200		1753
+3254	1 oktober 1753	1.106.383 lb.	thin	thin	1106		1753
+3255	1 oktober 1753	50.000 lb.	sappanhout	sappanhout	50000	lb.	1753
+3256	1 oktober 1753	57.408 lb.	thin	thin	57408	lb.	1753
+3258	1 oktober 1753	10.000 lb.	sappanhout	sappanhout	10000	lb.	1753
+3259	1 oktober 1753	500 coyangs	rijst	rijst	812500	lb.	1753
+3261	1 oktober 1753	50.000 lb.	sappanhout	sappanhout	50000	lb.	1753
+3263	1 oktober 1753	11.000 kistjes	koper	koper	11000	kisten	1753
+3266	1 oktober 1753	2.200.000 lb.	peper	peper	2200		1753
+3267	1 oktober 1753	1.700.000 lb.	thin	thin	1700		1753
+3284	1 oktober 1753	ƒ557.330,7,8	goud	goud	557330		1753
+3289	1 oktober 1753	2000 thailen	goud	goud	150.0	lb.	1753
+3290	1 oktober 1753	103 thailen	silver	silver	7.725	lb.	1753
+3298	1 oktober 1753	12.000 picols	peper	peper	1500000	lb.	1753
+3309	1 oktober 1753	10.000 thailen	goud	goud	750.0	lb.	1753
+3324	1 oktober 1753	125 lb.	indigo	indigo	125	lb.	1753
+3326	1 oktober 1753	23.435 lb.	salpeter	salpeter	23435	lb.	1753
+3333	1 oktober 1753	1± lb.	thin	thin	1		1753
+3335	1 oktober 1753	19.375 lb.	sappanhout	sappanhout	19375	lb.	1753
+3340	1 oktober 1753	60.075 lb.	thin	thin	60075	lb.	1753
+3341	1 oktober 1753	275.344 lb.	thin	thin	275344	lb.	1753
+3345	1 oktober 1753	629 thailen	goud	goud	47.175	lb.	1753
+3347	1 oktober 1753	100 bharen	thin	thin	50000	lb.	1753
+3375	1 oktober 1753	15.000 zakken	salpeter	salpeter	15000	zakken	1753
+3405	1 oktober 1753	500 candijlen	peper	peper	250000	lb.	1753
+3408	1 oktober 1753	10.000 lb.	sappanhout	sappanhout	10000	lb.	1753
+3430	1 oktober 1753	2485 lb.	indigo	indigo	2485	lb.	1753
+3438	1 oktober 1753	650 lasten	rijst	rijst	1625000	lb.	1753
+3439	1 oktober 1753	16.540 bossen	padij	padij	16540	bossen	1753
+3441	1 oktober 1753	181 2^ lb.	peper	peper	181		1753
+3443	1 oktober 1753	7250 lb.	indigo	indigo	7250	lb.	1753
+3450	1 oktober 1753	375 lb.	peeper	peper	375	lb.	1753
+3451	1 oktober 1753	1.243.683 lb.	peeper	peper	1243		1753
+3452	1 oktober 1753	266.625 lb.	sappanhout	sappanhout	266625	lb.	1753
+3460	1 oktober 1753	7491 lb.	indigo	indigo	7491	lb.	1753
+3466	1 oktober 1753	145 lb. balen	canneel	kaneel	145	lb.	1753
+3471	1 oktober 1753	10.750 lb.	nagelen	nagelen	10750	lb.	1753
+3473	1 oktober 1753	210.625 lb.	peeper	peper	210625	lb.	1753
+3474	1 oktober 1753	40.625 lb.	thin	thin	40625	lb.	1753
+3476	1 oktober 1753	500 picols	peeper	peper	62500	lb.	1753
+3478	1 oktober 1753	100 picols	peper	peper	12500	lb.	1753
+3482	1 oktober 1753	120.000 lb.	nagelen	nagelen	120000	lb.	1753
+3483	1 oktober 1753	700 sockels	foelij	foelij	112700	lb.	1753
+3491	1 oktober 1753	7251	nagelen	nagelen	7251		1753
+3494	1 oktober 1753	600 lasten	rijs	rijst	1500000	lb.	1753
+3495	1 oktober 1753	6000 bossen	padij	padij	6000	bossen	1753
+3496	1 oktober 1753	40 pakken	rijs	rijst	40	pakken	1753
+3500	1 oktober 1753	300 lasten	rijst	rijst	750000	lb.	1753
+3503	1 oktober 1753	6000 bossen	padij	padij	6000	bossen	1753
+3504	1 oktober 1753	150 lasten	rijst	rijst	375000	lb.	1753
+3505	1 oktober 1753	3000 bossen	padij	padij	3000	bossen	1753
+3506	1 oktober 1753	100 lasten	rijst	rijst	250000	lb.	1753
+3508	1 oktober 1753	250 lasten	rijst	rijst	625000	lb.	1753
+3509	1 oktober 1753	3500 bossen	padij	padij	3500	bossen	1753
+3510	1 oktober 1753	200 lasten	rijst	rijst	500000	lb.	1753
+3511	1 oktober 1753	150 lasten	rijst	rijst	375000	lb.	1753
+3512	1 oktober 1753	10.000 bossen	padij	padij	10000	bossen	1753
+3513	1 oktober 1753	300 lasten	rijst	rijst	750000	lb.	1753
+3514	1 oktober 1753	6000 bossen	padij	padij	6000	bossen	1753
+3515	1 oktober 1753	20.000 bossen	rijst	rijst	20000	bossen	1753
+3517	1 oktober 1753	11.431 bossen	padij	padij	11431	bossen	1753
+3518	1 oktober 1753	15 lasten	rijst	rijst	37500	lb.	1753
+3519	1 oktober 1753	2065 bossen	padij	padij	2065	bossen	1753
+3520	1 oktober 1753	28.600 bossen	padij	padij	28600	bossen	1753
+3521	1 oktober 1753	195.750 bossen	padij	padij	195750	bossen	1753
+3522	1 oktober 1753	406 lasten	rijst	rijst	1015000	lb.	1753
+3523	1 oktober 1753	25.644 bossen	padij	padij	25644	bossen	1753
+3524	1 oktober 1753	9585 bossen	padij	padij	9585	bossen	1753
+3525	1 oktober 1753	12	rijst	rijst	12		1753
+3528	1 oktober 1753	8213^ lb.	indigo	indigo	8213		1753
+3530	1 oktober 1753	tweeduyzend2 picols	sappanhout	sappanhout	250	lb.	1753
+3531	1 oktober 1753	12.000 picols	peper	peper	1500000	lb.	1753
+3540	1 oktober 1753	1.000.000 lb.	peper	peper	1000		1753
+3545	1 oktober 1753	476.476 lb.	rijst	rijst	476476	lb.	1753
+3549	1 oktober 1753	50.000 lb.	sappanhout	sappanhout	50000	lb.	1753
+3550	1 oktober 1753	1.219.845 lb.	rijst	rijst	1219		1753
+3551	1 oktober 1753	50.000 lb.	sappanhout	sappanhout	50000	lb.	1753
+3552	1 oktober 1753	57.700 lb.	thin	thin	57700	lb.	1753
+3553	1 oktober 1753	100.000 ponden	sappanhout	sappanhout	100000	lb.	1753
+3562	1 oktober 1753	1.698.713 lb.	peeper	peper	1698		1753
+3563	1 oktober 1753	1.216.306^ lb.	thin	thin	1216		1753
+3581	1 oktober 1753	10.000 thail	zijde	zijde	750.0	lb.	1753
+3588	1 oktober 1753	2730 picols	sappanhout	sappanhout	341250	lb.	1753
+3590	1 oktober 1753	415.519 lb.	thin	thin	415519	lb.	1753
+3595	1 oktober 1753	68.750 lb.	sappanhout	sappanhout	68750	lb.	1753
+3598	1 oktober 1753	6214 lb.	thin	thin	6214	lb.	1753
+3600	1 oktober 1753	200 staafjes	goud	goud	200	staven	1753
+3607	1 oktober 1753	145.840 lb.	thin	thin	145840	lb.	1753
+3627	1 oktober 1753	222 lb.	canneel	kaneel	222	lb.	1753
+3629	1 oktober 1753	500 candijlen	peper	peper	250000	lb.	1753
+3640	1 oktober 1753	1.219.845 lb.	rijst	rijst	1219		1753
+3642	1 oktober 1753	2000	peper	peper	2000		1753
+3643	1 oktober 1753	200 candijlen	peper	peper	100000	lb.	1753
+3647	1 oktober 1753	72 lb.	indigo	indigo	72	lb.	1753
+3658	1 oktober 1753	6 tonne	goud	goud	12000	lb.	1753
+3672	1 oktober 1753	1.161.213 lb.	peeper	peper	1161		1753
+3693	1 oktober 1753	108.193 lb.	nagelen	nagelen	108193	lb.	1753
+3695	1 oktober 1753	2000 picols	peper	peper	250000	lb.	1753
+3699	1 oktober 1753	172.000 lb.	thee	thee	172000	lb.	1753
+3700	1 oktober 1753	31.250 lb.	thin	thin	31250	lb.	1753
+3710	19 dec. 1651	400 picol	peper	peper	50000	lb.	1651
+3714	19 dec. 1651	19 bharen	nagelen	nagelen	9500	lb.	1651
+3720	19 dec. 1651	30 bharen	thin	thin	15000	lb.	1651
+3721	19 dec. 1651	300 baren	thin	thin	150000	lb.	1651
+3740	26 jan. 1655	10 tayl	silver	silver	0.75	lb.	1655
+3765	27 dec. 1634	240 lasten	peper	peper	600000	lb.	1634
+3772	27 dec. 1634	2000	rijs	rijst	2000		1634
+3773	27 dec. 1634	40 lasten	rijs	rijst	100000	lb.	1634
+3778	27 dec. 1634	103 391 ®	peper	peper	103		1634
+3785	9 febr. 1693	2000 bharen	nagelen	nagelen	1000000	lb.	1693
+3786	9 febr. 1693	1200000 ®	nagelen	nagelen	1200000		1693
+3788	9 febr. 1693	5 p.ls	peper	peper	625	lb.	1693
+3796	18 juli 1656	150 carga	sijde	sijde	63450	lb.	1656
+3797	10 november 1738	10 lasten	rijst	rijst	25000	lb.	1738
+3798	10 november 1738	10 lasten	rijst	rijst	25000	lb.	1738
+3800	10 november 1738	53 gantings	rijst	rijst	704.9000000000001	lb.	1738
+3801	10 november 1738	13.272 bossen	padij	padij	13272	bossen	1738
+3802	10 november 1738	1000 bossen	padij	padij	1000	bossen	1738
+3810	10 november 1738	50.000 lb.	peper	peper	50000	lb.	1738
+3835	10 november 1738	150.000 lb.	peper	peper	150000	lb.	1738
+3837	28 december 1731	6 maten	rijst	rijst	6	maten	1731
+3840	28 december 1731	661.085 lb	peper	peper	661085	lb.	1731
+3849	28 december 1731	8624 lb	foelij	foelij	8624	lb.	1731
+3851	28 december 1731	200.000 lb	peper	peper	200000	lb.	1731
+3854	28 december 1731	50 lasten	rijs	rijst	125000	lb.	1731
+3858	23 dec. 1687	3731	slaven	slaven	3731		1687
+3859	23 dec. 1687	7 t.	gout	goud	0.525	lb.	1687
+3860	23 dec. 1687	2 theyl	gout	goud	0.15	lb.	1687
+3863	23 dec. 1687	15 bharen	thin	thin	7500	lb.	1687
+3878	30 nov. 1684	100 sacken	salpeter	salpeter	100	zakken	1684
+3879	30 nov. 1684	1000 bharen	peper	peper	500000	lb.	1684
+3880	30 nov. 1684	108	slaven	slaven	108		1684
+3881	30 nov. 1684	600 lasten	rijs	rijst	1500000	lb.	1684
+3883	30 nov. 1684	8	peper	peper	8		1684
+3894	30 nov. 1684	3000 picols	peper	peper	375000	lb.	1684
+3898	17 jan. 1625	400 lasten	rijs	rijst	1000000	lb.	1625
+3904	17 jan. 1625	4196 sacken	peper	peper	4196	zakken	1625
+3905	18 febr. 1711	50 kisten	silver	silver	50	kisten	1711
+3908	29 nov. 1710	40	slaven	slaven	40		1710
+3916	31 dec. 1645	6 picols	indigo	indigo	750	lb.	1645
+3926	17 nov. 1669	6 lasten	rijs	rijst	15000	lb.	1669
+3935	17 nov. 1669	500 b.r	thin	thin	250000	lb.	1669
+3936	17 nov. 1669	150 b.r	peper	peper	75000	lb.	1669
+3942	17 nov. 1669	38 lasten	peper	peper	95000	lb.	1669
+3943	17 nov. 1669	905 lasten	peper	peper	2262500	lb.	1669
+3944	17 nov. 1669	100 ®	peper	peper	100		1669
+3945	17 nov. 1669	40 “ ffi	peper	peper	40		1669
+3948	17 nov. 1669	358 £ lasten	peper	peper	358		1669
+3949	17 nov. 1669	42 carga	sijde	sijde	17766	lb.	1669
+3950	26 januari 1726	200 last	rijst	rijst	500000	lb.	1726
+3952	26 januari 1726	4080 ©	nagelen	nagelen	4080		1726
+3954	26 januari 1726	102.000 ©	peper	peper	102000		1726
+3956	26 januari 1726	34.000 ©	thin	thin	34000		1726
+3963	15 oktober 1759	6.000.000 lb.	nagelen	nagelen	6000		1759
+3966	21 dec. 1646	4 p.s	slaven	slaven	500	lb.	1646
+3970	21 dec. 1646	25	gout	goud	25		1646
+3971	21 dec. 1646	-7000 paren	sijde	sijde	7000	paar	1646
+3979	21 dec. 1646	80 000 ft	salpeter	salpeter	80		1646
+3982	21 dec. 1646	52 balen	sijde	sijde	10400	lb.	1646
+3986	21 dec. 1646	125	sijde	sijde	125		1646
+3995	3 febr. 1626	200 lasten	rijs	rijst	500000	lb.	1626
+4004	3 febr. 1626	250 sacken	peper	peper	250	zakken	1626
+4007	3 febr. 1626	500 lasten	peper	peper	1250000	lb.	1626
+4009	22 dec. 1638	100 bhaar	nagelen	nagelen	50000	lb.	1638
+4010	22 dec. 1638	30 bhaar	nagelen	nagelen	15000	lb.	1638
+4012	22 dec. 1638	150 bhaar	nagelen	nagelen	75000	lb.	1638
+4014	22 dec. 1638	50 lasten	rijs	rijst	125000	lb.	1638
+4016	22 dec. 1638	3000	peper	peper	3000		1638
+4018	22 dec. 1638	100 packen	indigo	indigo	100	pakken	1638
+4019	22 dec. 1638	135 sockels	nagelen	nagelen	21735	lb.	1638
+4023	22 dec. 1638	1620 balen	sijde	sijde	324000	lb.	1638
+4024	22 dec. 1638	320 balen	indigo	indigo	64000	lb.	1638
+4025	22 dec. 1638	23 packen	indigo	indigo	23	pakken	1638
+4026	22 dec. 1638	850 balen	zijde	zijde	170000	lb.	1638
+4027	22 dec. 1638	400 carga	zijde	zijde	169200	lb.	1638
+4028	22 dec. 1638	800 balen	zijde	zijde	160000	lb.	1638
+4033	22 dec. 1638	200 picols	peper	peper	25000	lb.	1638
+4034	22 dec. 1638	4000 picol	peper	peper	500000	lb.	1638
+4037	22 dec. 1638	60 lasten	rijs	rijst	150000	lb.	1638
+4044	22 dec. 1638	110 lasten	rijs	rijst	275000	lb.	1638
+4045	22 dec. 1638	13 lasten	rijs	rijst	32500	lb.	1638
+4046	22 dec. 1638	150 lasten	rijs	rijst	375000	lb.	1638
+4047	22 dec. 1638	600	padij	padij	600		1638
+4052	22 dec. 1638	2880 picols	peper	peper	360000	lb.	1638
+4061	22 dec. 1638	2 bhaar	peper	peper	1000	lb.	1638
+4062	22 dec. 1638	480	peper	peper	480		1638
+4063	22 dec. 1638	400 packen	indigo	indigo	400	pakken	1638
+4070	30 nov. 1702	500	peper	peper	500		1702
+4075	11 dec. 1679	20 stux	slaven	slaven	20	stuks	1679
+4076	11 dec. 1679	15	slaven	slaven	15		1679
+4077	11 dec. 1679	110 bharen	thin	thin	55000	lb.	1679
+4078	11 dec. 1679	81 bharen	thin	thin	40500	lb.	1679
+4079	11 dec. 1679	30 bharen	thin	thin	15000	lb.	1679
+4080	11 dec. 1679	150 lasten	rijs	rijst	375000	lb.	1679
+4089	7 febr. 1676	78 packen	salpeter	salpeter	78	pakken	1676
+4092	7 febr. 1676	69330 ®	thin	thin	69330		1676
+4095	18 febr. 1715	300 cargas	zijde	zijde	126900	lb.	1715
+4098	16 jan. 1658	11 000 picols	peper	peper	11		1658
+4104	16 jan. 1658	170 p.01	peper	peper	21250	lb.	1658
+4108	16 jan. 1658	23 667.10.15	peper	peper	23		1658
+4110	16 jan. 1658	200 lasten	peeper	peper	500000	lb.	1658
+4111	16 jan. 1658	2000 lasten	peeper	peper	5000000	lb.	1658
+4112	24 dec. 1655	220 927 ®	nagelen	nagelen	220		1655
+4113	24 dec. 1655	22\lasten	rijs	rijst	22		1655
+4115	24 dec. 1655	110 lasten	rijs	rijst	275000	lb.	1655
+4121	24 dec. 1655	650 picol	peper	peper	81250	lb.	1655
+4122	24 dec. 1655	45 bhar	peper	peper	22500	lb.	1655
+4123	24 dec. 1655	700 bharen	peper	peper	350000	lb.	1655
+4124	24 dec. 1655	1500 bharen	peper	peper	750000	lb.	1655
+4125	24 dec. 1655	7000 p.1	sappanhout	sappanhout	875000	lb.	1655
+4134	24 dec. 1655	300 lasten	rijs	rijst	750000	lb.	1655
+4135	24 dec. 1655	200 lasten	rijs	rijst	500000	lb.	1655
+4138	24 dec. 1655	50 bhar	salpeter	salpeter	25000	lb.	1655
+4140	24 dec. 1655	658 picol	peper	peper	82250	lb.	1655
+4147	24 dec. 1655	20 lasten	rijs	rijst	50000	lb.	1655
+4149	24 dec. 1655	100 stucx	slaven	slaven	100	stuks	1655
+4153	31 januari 1730	1200 man	thin	thin	60000	lb.	1730
+4154	31 januari 1730	3	rijs	rijst	3		1730
+4176	31 januari 1730	250 lb	indigo	indigo	250	lb.	1730
+4179	31 januari 1730	5 lb	zijde	zijde	5	lb.	1730
+4185	22 dec. 1643	360 balen	sijde	sijde	72000	lb.	1643
+4187	22 dec. 1643	500 balen	sijde	sijde	100000	lb.	1643
+4188	22 dec. 1643	500 balen	zijde	zijde	100000	lb.	1643
+4189	22 dec. 1643	478 balen	zijde	zijde	95600	lb.	1643
+4191	22 dec. 1643	477000	peper	peper	477000		1643
+4192	22 dec. 1643	235000	peper	peper	235000		1643
+4194	22 dec. 1643	500 balen	zijde	zijde	100000	lb.	1643
+4197	22 dec. 1643	ruym 400 balen	zijde	zijde	80000	lb.	1643
+4203	22 dec. 1643	100 kisten	silver	silver	100	kisten	1643
+4210	22 dec. 1643	193 kisten	silver	silver	193	kisten	1643
+4211	22 dec. 1643	300 lasten	peper	peper	750000	lb.	1643
+4215	22 dec. 1643	600 picols	zijde	zijde	75000	lb.	1643
+4216	22 dec. 1643	478 balen	zijde	zijde	95600	lb.	1643
+4217	30 nov. 1640	4000 quintalen	peper	peper	400000	lb.	1640
+4218	30 nov. 1640	150 balen	sijde	sijde	30000	lb.	1640
+4219	30 nov. 1640	400 balen	sijde	sijde	80000	lb.	1640
+4220	30 nov. 1640	113082	sijde	sijde	113082		1640
+4221	30 nov. 1640	150 carge	sijde	sijde	63450	lb.	1640
+4222	30 nov. 1640	450 balen	sijde	sijde	90000	lb.	1640
+4223	30 nov. 1640	1000 picols	peper	peper	125000	lb.	1640
+4226	30 nov. 1640	3000 picols	peper	peper	375000	lb.	1640
+4228	31 december 1760	868 soekels	foelij	foelij	139748	lb.	1760
+4232	31 december 1760	20 soekels	foelij	foelij	3220	lb.	1760
+4249	31 december 1760	7 stux	slaven	slaven	7	stuks	1760
+4269	31 december 1760	725.116 lb.	sappanhout	sappanhout	725116	lb.	1760
+4299	31 december 1760	3.696	foelij	foelij	3696		1760
+4397	31 december 1760	200 „	indigo	indigo	200		1760
+4403	31 december 1760	4,-9240 lb.	foelij	foelij	4,		1760
+4440	31 december 1760	797.388 lb.	peper	peper	797388	lb.	1760
+4442	31 december 1760	40 lb.	indigo	indigo	40	lb.	1760
+4454	31 december 1760	3080	foelij	foelij	3080		1760
+4468	31 december 1760	1.568.932 4375 lb. lasten lb.	rijst	rijst	1568		1760
+4475	31 december 1760	10.375	indigo	indigo	10375		1760
+4517	31 januari 1739	66 1§ lb.	rijst	rijst	66		1739
+4521	31 januari 1739	60 thonnen	silver	silver	120000	lb.	1739
+4524	31 januari 1739	1000 balen	canneel	kaneel	200000	lb.	1739
+4526	31 januari 1739	647 balen	canneel	kaneel	129400	lb.	1739
+4530	31 januari 1739	circa 600 lasten	rijst	rijst	1500000	lb.	1739
+4533	31 januari 1739	740	koper	koper	740		1739
+4543	31 januari 1739	1000	rijst	rijst	1000		1739
+4544	31 januari 1739	1000 coyangs lasten	rijst	rijst	1625000	lb.	1739
+4550	6 jan. 1632	2640 picols	gout	goud	330000	lb.	1632
+4551	6 jan. 1632	1500 bharen	nagelen	nagelen	750000	lb.	1632
+4553	6 jan. 1632	25 bhaaren	nagelen	nagelen	12500	lb.	1632
+4554	6 jan. 1632	400 bhaer	nagelen	nagelen	200000	lb.	1632
+4574	15 oktober 1758	60.000	foelij	foelij	60000		1758
+4575	15 oktober 1758	6.000.000 lb.	peeper	peper	6000		1758
+4578	13 febr. 1679	16 p.18	peper	peper	2000	lb.	1679
+4583	13 febr. 1679	400 ®	thin	thin	400		1679
+4586	13 febr. 1679	10 lasten	rijs	rijst	25000	lb.	1679
+4587	13 febr. 1679	33300 man	salpeter	salpeter	1665000	lb.	1679
+4589	13 febr. 1679	6600	salpeter	salpeter	6600		1679
+4590	13 febr. 1679	30000 man	salpeter	salpeter	1500000	lb.	1679
+4591	13 febr. 1679	264 lasten	rijs	rijst	660000	lb.	1679
+4602	13 nov. 1673	100 candijlen	peper	peper	50000	lb.	1673
+4603	5 febr. 1652	500 tail	silver	silver	37.5	lb.	1652
+4604	15 jan. 1717	500	slaven	slaven	500		1717
+4612	25 januari 1738	500.000 stuks	zijde	zijde	500000	stuks	1738
+4615	25 januari 1738	30	slaven	slaven	30		1738
+4618	25 januari 1738	3000 lasten	rijst	rijst	7500000	lb.	1738
+4622	6 dec. 1698	500 lasten	rijs	rijst	1250000	lb.	1698
+4624	6 dec. 1698	300 lasten	rijs	rijst	750000	lb.	1698
+4627	6 november 1741	5 lasten	rijst	rijst	12500	lb.	1741
+4628	6 november 1741	6 lasten	rijst	rijst	15000	lb.	1741
+4629	6 november 1741	4275 picols	sappanhout	sappanhout	534375	lb.	1741
+4630	6 november 1741	10.425 picols	sappanhout	sappanhout	1303125	lb.	1741
+4634	6 november 1741	19.332 ponden	thin	thin	19332	lb.	1741
+4644	6 november 1741	40.000 lb.	salpeter	salpeter	40000	lb.	1741
+4652	6 november 1741	800 bharen	peeper	peper	400000	lb.	1741
+4658	6 november 1741	9850 ponden	peeper	peper	9850	lb.	1741
+4661	6 november 1741	197.000 ponden	peeper	peper	197000	lb.	1741
+4663	6 november 1741	4000 ponden	canneel	kaneel	4000	lb.	1741
+4664	6 november 1741	197.000 ponden	peeper	peper	197000	lb.	1741
+4667	6 november 1741	68	foelij	foelij	68		1741
+4668	6 november 1741	160	canneel	kaneel	160		1741
+4673	6 november 1741	20 lasten	rijst	rijst	50000	lb.	1741
+4678	6 november 1741	152 lasten	rijst	rijst	380000	lb.	1741
+4679	6 november 1741	4.688.9334 lb.	rijst	rijst	4688		1741
+4680	6 november 1741	3655 lb.	indigo	indigo	3655	lb.	1741
+4692	6 november 1741	2 lasten	rijst	rijst	5000	lb.	1741
+4694	6 november 1741	75 lasten	rijst	rijst	187500	lb.	1741
+4695	6 november 1741	1000 coyangs	rijst	rijst	1625000	lb.	1741
+4696	6 november 1741	44 lasten	rijst	rijst	110000	lb.	1741
+4697	6 november 1741	1000 lasten	rijst	rijst	2500000	lb.	1741
+4700	6 november 1741	50 lasten	rijst	rijst	125000	lb.	1741
+4704	6 november 1741	306.666§ lb.	rijst	rijst	306666		1741
+4718	6 november 1741	68.084|144.181 lb.	thee	thee	68084		1741
+4723	6 november 1741	1456 picols	sappanhout	sappanhout	182000	lb.	1741
+4748	15 dec. 1669	800	slaven	slaven	800		1669
+4749	15 dec. 1669	1600 lasten	peper	peper	4000000	lb.	1669
+4750	16 jan. 1678	500000	thin	thin	500000		1678
+4753	9 sept. 1640	200 lasten	peper	peper	500000	lb.	1640
+4754	9 sept. 1640	6000 picols	peper	peper	750000	lb.	1640
+4757	9 sept. 1640	800 000 ®	nagelen	nagelen	800		1640
+4758	9 sept. 1640	8000 picols	peper	peper	1000000	lb.	1640
+4759	9 sept. 1640	100 000 tayl	silver	silver	100		1640
+4764	9 juli 1621	70 baharen	peper	peper	35000	lb.	1621
+4769	9 juli 1621	34 catty	peper	peper	42.5	lb.	1621
+4770	9 juli 1621	600 lasten	rijs	rijst	1500000	lb.	1621
+4805	28 november 1737	200 bharen	thin	thin	100000	lb.	1737
+4806	28 november 1737	200 bharen	thin	thin	100000	lb.	1737
+4816	28 november 1737	50	slaven	slaven	50		1737
+4837	6 juni 1752	8000 lb.	sijde	sijde	8000	lb.	1752
+4847	31 jan. 1669	150 bharen	peper	peper	75000	lb.	1669
+4854	31 dec. 1647	286 lasten	rijs	rijst	715000	lb.	1647
+4864	31 dec. 1647	8 tonnen	gout	goud	16000	lb.	1647
+4865	31 dec. 1647	42 balen	sijde	sijde	8400	lb.	1647
+4869	31 dec. 1647	200 picol	peper	peper	25000	lb.	1647
+4870	31 dec. 1647	52 kisten	silver	silver	52	kisten	1647
+4876	31 dec. 1647	80 000 tailen	silver	silver	80		1647
+4877	31 dec. 1647	400 picol	sijde	sijde	50000	lb.	1647
+4878	31 dec. 1647	10 kisten	silver	silver	10	kisten	1647
+4880	31 dec. 1647	643 picol	sijde	sijde	80375	lb.	1647
+4881	31 dec. 1647	2700 tayl	silver	silver	202.5	lb.	1647
+4887	31 dec. 1647	23 stucs	peper	peper	23	stuks	1647
+4891	31 dec. 1647	500 lasten	peper	peper	1250000	lb.	1647
+4892	31 maart 1721	6	slaven	slaven	6		1721
+4898	30 sept. 1676	150 teylen	gout	goud	11.25	lb.	1676
+4899	30 sept. 1676	80 teylen	gout	goud	6.0	lb.	1676
+4905	30 sept. 1676	200 stux	slaven	slaven	200	stuks	1676
+4907	30 sept. 1676	3000 candyll	peper	peper	1500000	lb.	1676
+4927	31 december 1750	500 last	rijst	rijst	1250000	lb.	1750
+4936	31 december 1750	200 lasten	rijst	rijst	500000	lb.	1750
+4941	31 december 1750	109 gantings	rijst	rijst	1449.7	lb.	1750
+4942	31 december 1750	27.235	padij	padij	27235		1750
+4944	31 december 1750	65 gantangs	rijst	rijst	864.5	lb.	1750
+4945	31 december 1750	295 gantangs	rijst	rijst	3923.5	lb.	1750
+4956	31 december 1750	101.250,- lb.	peeper	peper	101250		1750
+4957	31 december 1750	met100.000 lb.	thin	thin	100000	lb.	1750
+4958	31 december 1750	20.250 lb.	peeper	peper	20250	lb.	1750
+4959	31 december 1750	500.000 lb.	thin	thin	500000	lb.	1750
+4960	31 december 1750	467.062 lb.	peper	peper	467062	lb.	1750
+4963	31 december 1750	87.500 lb.	peeper	peper	87500	lb.	1750
+4964	31 december 1750	588.562 lb.	thin	thin	588562	lb.	1750
+4965	31 december 1750	758.977 lb.	peeper	peper	758977	lb.	1750
+4970	31 december 1750	51.024 lb.	thin	thin	51024	lb.	1750
+4971	31 december 1750	700.000 lb.	sappanhout	sappanhout	700000	lb.	1750
+4973	31 december 1750	100 lb.	goud	goud	100	lb.	1750
+4977	31 december 1750	5200 picols	thee	thee	650000	lb.	1750
+4981	31 december 1750	4800 picols	thee	thee	600000	lb.	1750
+4990	31 december 1750	153 sacken	peper	peper	153	zakken	1750
+4996	31 december 1750	440.500,- lb.	thin	thin	440500		1750
+5000	31 december 1750	1889,- lb.	zijde	zijde	1889,		1750
+5007	31 december 1750	649^ thailen	goud	goud	649		1750
+5011	31 december 1750	389	peper	peper	389		1750
+5042	31 december 1750	150 lasten	rijst	rijst	375000	lb.	1750
+5043	31 december 1750	4673^ last	rijst	rijst	4673		1750
+5046	31 december 1750	4670 lb.	indigo	indigo	4670	lb.	1750
+5053	31 december 1750	35 coyangs	rijst	rijst	56875	lb.	1750
+5054	31 december 1750	ƒ2.001.148,15,8	rijst	rijst	2001		1750
+5055	31 december 1750	400 lasten	rijst	rijst	1000000	lb.	1750
+5056	31 december 1750	60 lasten	padij	padij	150000	lb.	1750
+5060	31 december 1750	6750 lb.	indigo	indigo	6750	lb.	1750
+5066	31 december 1750	968.199 lb.	thin	thin	968199	lb.	1750
+5069	31 december 1750	9302 lb.	indigo	indigo	9302	lb.	1750
+5073	31 december 1750	518.312 lb.	thin	thin	518312	lb.	1750
+5074	31 december 1750	888.250 lb.	peper	peper	888250	lb.	1750
+5075	31 december 1750	11 19 lb.	zijde	zijde	11		1750
+5076	31 december 1750	17.500 lb.	koper	koper	17500	lb.	1750
+5077	31 december 1750	440 lb.	foelij	foelij	440	lb.	1750
+5080	31 december 1750	49.000 lb.	canneel	kaneel	49000	lb.	1750
+5094	23 maart 1730	26 kisten	nagelen	nagelen	26	kisten	1730
+5098	23 maart 1730	80 picols lange	peper	peper	10000	lb.	1730
+5099	23 maart 1730	70	goud	goud	70		1730
+5101	7 nov. 1654	3 lasten	rijs	rijst	7500	lb.	1654
+5105	7 nov. 1654	10 kisten	silver	silver	10	kisten	1654
+5107	7 nov. 1654	1500 picol	peper	peper	187500	lb.	1654
+5108	7 nov. 1654	1000 p.1	peper	peper	125000	lb.	1654
+5109	7 nov. 1654	35 bharen	thin	thin	17500	lb.	1654
+5111	7 nov. 1654	100 p.1	peper	peper	12500	lb.	1654
+5120	30 nov. 1704	29	slaven	slaven	29		1704
+5128	25 jan. 1667	680 picol	sappanhout	sappanhout	85000	lb.	1667
+5134	25 jan. 1667	680 picols	sappanhout	sappanhout	85000	lb.	1667
+5138	25 jan. 1667	3000 lasten	salpeter	salpeter	7500000	lb.	1667
+5139	25 jan. 1667	1000 lasten	zijde	zijde	2500000	lb.	1667
+5141	25 jan. 1667	149600 pont	salpeter	salpeter	149600	lb.	1667
+5154	31 maart 1731	508.270 lb	sappanhout	sappanhout	508270	lb.	1731
+5174	4 jan. 1644	600 stucx	slaven	slaven	600	stuks	1644
+5175	4 jan. 1644	72 schuyten	gout	goud	72	schuit	1644
+5178	14 dec. 1658	15 297 catty	peper	peper	15		1658
+5179	14 dec. 1658	120 lasten	rijs	rijst	300000	lb.	1658
+5181	14 dec. 1658	600 000 ®	peper	peper	600		1658
+5192	13 oct. 1680	5 lasten	rijs	rijst	12500	lb.	1680
+5202	6 febr. 1654	59	slaven	slaven	59		1654
+5204	6 febr. 1654	121 lasten	rijs	rijst	302500	lb.	1654
+5207	25 nov. 1712	8	rijs	rijst	8		1712
+5216	31 jan. 1672	2000 picols	peper	peper	250000	lb.	1672
+5242	31 december 1758	163.713 lb.	thin	thin	163713	lb.	1758
+5243	31 december 1758	887.215	sappanhout	sappanhout	887215		1758
+5255	31 december 1758	250.000 ponden	thin	thin	250000	lb.	1758
+5258	31 december 1758	3000 picols	thee	thee	375000	lb.	1758
+5267	31 december 1758	2.537.402 lb.	salpeter	salpeter	2537		1758
+5305	31 december 1758	28.800 lb.	indigo	indigo	28800	lb.	1758
+5311	31 december 1758	1494,-	goud	goud	1494,		1758
+5329	31 december 1758	600 lasten	rijs	rijst	1500000	lb.	1758
+5330	31 december 1758	900 bharen	peeper	peper	450000	lb.	1758
+5340	31 december 1758	5060 lasten	rijst	rijst	12650000	lb.	1758
+5344	31 december 1758	2384 lb.	indigo	indigo	2384	lb.	1758
+5353	31 december 1758	15 lb.	zijde	zijde	15	lb.	1758
+5355	31 december 1758	177 lasten	rijst	rijst	442500	lb.	1758
+5358	31 december 1758	12.300	peeper	peper	12300		1758
+5359	31 december 1758	12.000	indigo	indigo	12000		1758
+5367	31 december 1758	164.741	peeper	peper	164741		1758
+5368	31 december 1758	152.389	sappanhout	sappanhout	152389		1758
+5369	31 december 1758	84.431	salpeter	salpeter	84431		1758
+5375	31 december 1758	9776	indigo	indigo	9776		1758
+5376	31 december 1758	111.015	peeper	peper	111015		1758
+5380	31 december 1758	310 balen	canneel	kaneel	62000	lb.	1758
+5383	31 december 1758	17.500	peeper	peper	17500		1758
+5386	31 december 1758	35.342 „	peeper	peper	35342		1758
+5388	31 december 1758	3781 „	indigo	indigo	3781		1758
+5392	26 nov. 1714	80 lb.en	rijs	rijst	80	lb.	1714
+5394	26 nov. 1714	4000 picols	peper	peper	500000	lb.	1714
+5403	18 dec. 1639	455 lasten	peper	peper	1137500	lb.	1639
+5411	18 dec. 1639	600 picols	peper	peper	75000	lb.	1639
+5412	18 dec. 1639	200 picols	peper	peper	25000	lb.	1639
+5413	18 dec. 1639	130 lasten	peper	peper	325000	lb.	1639
+5418	18 dec. 1639	542 balen	sijde	sijde	108400	lb.	1639
+5420	18 dec. 1639	200	sijde	sijde	200		1639
+5423	18 dec. 1639	300 balen	sijde	sijde	60000	lb.	1639
+5433	18 dec. 1639	470 balen	sijde	sijde	94000	lb.	1639
+5434	18 dec. 1639	3648 picols	peper	peper	456000	lb.	1639
+5438	18 dec. 1639	52 catty	thin	thin	65.0	lb.	1639
+5443	18 dec. 1639	3723	nagelen	nagelen	3723		1639
+5455	18 dec. 1639	8000 picols	peper	peper	1000000	lb.	1639
+5456	18 dec. 1639	200 lasten	peper	peper	500000	lb.	1639
+5458	18 dec. 1639	1200 picols	peper	peper	150000	lb.	1639
+5462	18 dec. 1639	150 lasten	peper	peper	375000	lb.	1639
+5464	18 dec. 1639	1600 man	salpeter	salpeter	80000	lb.	1639
+5472	18 dec. 1639	150 lasten	peper	peper	375000	lb.	1639
+5474	18 dec. 1639	100 p.ls	peper	peper	12500	lb.	1639
+5476	18 dec. 1639	1000 picols	peper	peper	125000	lb.	1639
+5478	18 dec. 1639	200 schuyten	silver	silver	200	schuit	1639
+5479	18 dec. 1639	2 3)ende	rijs	rijst	2		1639
+5481	5 juli 1677	115 lasten	rijs	rijst	287500	lb.	1677
+5482	5 juli 1677	250 bharen	thin	thin	125000	lb.	1677
+5484	5 juli 1677	260 lasten	rijs	rijst	650000	lb.	1677
+5487	5 juli 1677	260 lasten	rijs	rijst	650000	lb.	1677
+5488	5 juli 1677	600 lasten	rijs	rijst	1500000	lb.	1677
+5490	13 febr. 1677	1500 teyl swaarte	zijde	zijde	112.5	lb.	1677
+5534	30 nov. 1705	1610	canneel	kaneel	1610		1705
+5541	18 oct. 1668	10	slaven	slaven	10		1668
+5552	9 juli 1645	200 picol	peper	peper	25000	lb.	1645
+5553	1 febr. 1656	800 lasten	rijs	rijst	2000000	lb.	1656
+5554	1 febr. 1656	700 packen	sijde	sijde	700	pakken	1656
+5557	1 febr. 1656	400 picols	peper	peper	50000	lb.	1656
+5559	1 febr. 1656	25 lasten	rijs	rijst	62500	lb.	1656
+5572	1 febr. 1656	300 balen	zijde	zijde	60000	lb.	1656
+5576	15 dec. 1633	1727	nagelen	nagelen	1727		1633
+5578	15 dec. 1633	70 lasten	rijs	rijst	175000	lb.	1633
+5579	15 dec. 1633	1000 picol	nagelen	nagelen	125000	lb.	1633
+5581	15 dec. 1633	187 cattij	peper	peper	233.75	lb.	1633
+5583	15 dec. 1633	600 bharen	peper	peper	300000	lb.	1633
+5584	15 dec. 1633	500 bharen	peper	peper	250000	lb.	1633
+5588	15 dec. 1633	9000 picol	peper	peper	1125000	lb.	1633
+5601	30 dec. 1638	200 lasten	peper	peper	500000	lb.	1638
+5603	30 dec. 1638	200 000 taylen	silver	silver	200		1638
+5606	30 dec. 1638	1300 picol	peper	peper	162500	lb.	1638
+5610	30 dec. 1638	1259 kisten	silver	silver	1259	kisten	1638
+5612	30 dec. 1638	1000 picols	sijde	sijde	125000	lb.	1638
+5613	5 oct. 1667	1000 picol	peper	peper	125000	lb.	1667
+5615	5 oct. 1667	700 lasten	salpeter	salpeter	1750000	lb.	1667
+5616	5 oct. 1667	500 lasten	peper	peper	1250000	lb.	1667
+5618	5 oct. 1667	300 cargas	sijde	sijde	126900	lb.	1667
+5626	13 maart 1688	4000 thailen	silver	silver	300.0	lb.	1688
+5627	13 maart 1688	2000 picols	peper	peper	250000	lb.	1688
+5629	13 maart 1688	18799 697	goud	goud	18799		1688
+5633	15 aug. 1634	235	sijde	sijde	235		1634
+5638	15 aug. 1634	200 lasten	peper	peper	500000	lb.	1634
+5639	15 aug. 1634	700 picol	peper	peper	87500	lb.	1634
+5640	15 aug. 1634	100 picol	peper	peper	12500	lb.	1634
+5642	15 aug. 1634	50 picol	peper	peper	6250	lb.	1634
+5645	30 jan. 1662	18 lasten	rijs	rijst	45000	lb.	1662
+5648	12 jan. 1639	90 bharen	peper	peper	45000	lb.	1639
+5650	12 oktober 1746	353 lb.	indigo	indigo	353	lb.	1746
+5653	12 oktober 1746	16.539 bossen	rijs	rijst	16539	bossen	1746
+5654	12 oktober 1746	137 lasten	rijst	rijst	342500	lb.	1746
+5655	12 oktober 1746	90§ lasten	rijs	rijst	90		1746
+5656	12 oktober 1746	15.000 bossen	padij	padij	15000	bossen	1746
+5657	12 oktober 1746	30 lasten	rijst	rijst	75000	lb.	1746
+5658	12 oktober 1746	239.250 lb.	rijs	rijst	239250	lb.	1746
+5659	12 oktober 1746	1250 picols	thin	thin	156250	lb.	1746
+5662	12 oktober 1746	2338 picols	thin	thin	292250	lb.	1746
+5663	12 oktober 1746	12.000 picols	peper	peper	1500000	lb.	1746
+5664	12 oktober 1746	2000	thin	thin	2000		1746
+5667	12 oktober 1746	2309 picols	thin	thin	288625	lb.	1746
+5668	12 oktober 1746	19.000]% picols	peper	peper	19000		1746
+5669	12 oktober 1746	7883]% picols	thin	thin	7883		1746
+5671	12 oktober 1746	800.000 lb.	sappanhout	sappanhout	800000	lb.	1746
+5672	12 oktober 1746	92.253 lb.	thin	thin	92253	lb.	1746
+5678	12 oktober 1746	71.373 lb.	sappanhout	sappanhout	71373	lb.	1746
+5684	12 oktober 1746	15.000 kisten	koper	koper	15000	kisten	1746
+5685	12 oktober 1746	12.000 kisten staafkoper	koper	koper	12000	kisten	1746
+5688	12 oktober 1746	46.000 lb.	thin	thin	46000	lb.	1746
+5689	12 oktober 1746	35.854 lb.	thin	thin	35854	lb.	1746
+5690	12 oktober 1746	20.650 lb.	thin	thin	20650	lb.	1746
+5692	12 oktober 1746	778 lb.	peper	peper	778	lb.	1746
+5694	12 oktober 1746	200 bharen	thin	thin	100000	lb.	1746
+5712	12 oktober 1746	4450 sacken	salpeter	salpeter	4450	zakken	1746
+5713	12 oktober 1746	611.361 lb.	peper	peper	611361	lb.	1746
+5724	12 oktober 1746	280 lasten	rijst	rijst	700000	lb.	1746
+5729	12 oktober 1746	308 lb.	foelij	foelij	308	lb.	1746
+5740	12 oktober 1746	308 lb.	foelij	foelij	308	lb.	1746
+5749	12 oktober 1746	328 lasten	rijst	rijst	820000	lb.	1746
+5768	12 oktober 1746	20.000 lb.	peper	peper	20000	lb.	1746
+5770	12 oktober 1746	100 lb.	nagelen	nagelen	100	lb.	1746
+5772	12 oktober 1746	45.870 lb.	thin	thin	45870	lb.	1746
+5786	12 oktober 1746	10.000 lb.	sappanhout	sappanhout	10000	lb.	1746
+5799	12 oktober 1746	7000 lb.	indigo	indigo	7000	lb.	1746
+5801	12 oktober 1746	450 lasten	rijs	rijst	1125000	lb.	1746
+5812	12 oktober 1746	ƒ40.800,5,-	goud	goud	40800		1746
+5813	12 oktober 1746	161 lb. ponden	foelij	foelij	161	lb.	1746
+5815	12 oktober 1746	25 lb.	peper	peper	25	lb.	1746
+5818	12 oktober 1746	73.776 lb.	sappanhout	sappanhout	73776	lb.	1746
+5830	12 oktober 1746	25.000 picols	thee	thee	3125000	lb.	1746
+5831	12 oktober 1746	6000 pees	zijde	zijde	6000	stuks	1746
+5832	12 oktober 1746	2000 pees	thee	thee	2000	stuks	1746
+5836	12 oktober 1746	1000 picols	thee	thee	125000	lb.	1746
+5837	12 oktober 1746	10.000 kisten	koper	koper	10000	kisten	1746
+5838	12 oktober 1746	16.000	koper	koper	16000		1746
+5841	12 oktober 1746	1.000 picols	koper	koper	125000	lb.	1746
+5843	12 oktober 1746	1.000 picols	koper	koper	125000	lb.	1746
+5844	12 oktober 1746	.000 picols	koper	koper	0	lb.	1746
+5847	12 oktober 1746	100 catties	goud	goud	125.0	lb.	1746
+5863	12 oktober 1746	21.000 sacken	salpeter	salpeter	21000	zakken	1746
+5867	12 oktober 1746	300 lasten	rijst	rijst	750000	lb.	1746
+5885	12 oktober 1746	100.000 lb.	peper	peper	100000	lb.	1746
+5886	12 oktober 1746	15.000 lb.	sappanhout	sappanhout	15000	lb.	1746
+5906	12 oktober 1746	80 balen	canneel	kaneel	16000	lb.	1746
+5907	12 oktober 1746	1.900	rijs	rijst	1900		1746
+5911	12 oktober 1746	800.077 lb.	sappanhout	sappanhout	800077	lb.	1746
+5912	12 oktober 1746	49.484 lb.	thin	thin	49484	lb.	1746
+5913	12 oktober 1746	250 lasten	rijs	rijst	625000	lb.	1746
+5916	12 oktober 1746	6000 kisten	koper	koper	6000	kisten	1746
+5918	12 oktober 1746	circa 150 lasten	rijs	rijst	375000	lb.	1746
+5927	12 oktober 1746	200 coyangs	rijst	rijst	325000	lb.	1746
+5931	12 oktober 1746	125.000 lb.	peper	peper	125000	lb.	1746
+5934	12 oktober 1746	350.000 lb.	thin	thin	350000	lb.	1746
+5935	12 oktober 1746	993.625 lb.	peper	peper	993625	lb.	1746
+5936	12 oktober 1746	802.000 lb.	thin	thin	802000	lb.	1746
+5937	12 oktober 1746	1.500.077 lb.	sappanhout	sappanhout	1500		1746
+5945	12 oktober 1746	11.000 picols	koper	koper	1375000	lb.	1746
+5947	12 oktober 1746	6000 picols	koper	koper	750000	lb.	1746
+5948	12 oktober 1746	5000 kisten	koper	koper	5000	kisten	1746
+5950	12 oktober 1746	1.000 kisten	koper	koper	1000	kisten	1746
+5952	12 oktober 1746	5500 kisten	koper	koper	5500	kisten	1746
+5956	12 oktober 1746	5500 kisten	koper	koper	5500	kisten	1746
+5961	12 oktober 1746	11.000 picols	koper	koper	1375000	lb.	1746
+5966	12 oktober 1746	6000 picols	goud	goud	750000	lb.	1746
+5975	12 oktober 1746	20 picols	zijde	zijde	2500	lb.	1746
+5984	12 oktober 1746	15 thailen	goud	goud	1.125	lb.	1746
+5990	12 oktober 1746	5000 sacken	salpeter	salpeter	5000	zakken	1746
+5997	12 oktober 1746	7.064 lb.	peper	peper	7064	lb.	1746
+5998	12 oktober 1746	305 lb.	peper	peper	305	lb.	1746
+6001	12 oktober 1746	5000 sacken	rijst	rijst	5000	zakken	1746
+6003	12 oktober 1746	940 balen	canneel	kaneel	188000	lb.	1746
+6004	12 oktober 1746	46 1	rijst	rijst	46		1746
+6009	12 oktober 1746	2 lb.	foelij	foelij	2	lb.	1746
+6016	12 oktober 1746	88.087 lb.	sappanhout	sappanhout	88087	lb.	1746
+6024	12 oktober 1746	39 balen	canneel	kaneel	7800	lb.	1746
+6034	12 oktober 1746	3760 lb.	indigo	indigo	3760	lb.	1746
+6038	12 oktober 1746	2.250	rijs	rijst	2250		1746
+6040	12 oktober 1746	250 lasten	rijs	rijst	625000	lb.	1746
+6041	12 oktober 1746	200 lasten	rijs	rijst	500000	lb.	1746
+6042	12 oktober 1746	30.000	peper	peper	30000		1746
+6044	12 oktober 1746	600.000 lb.	peper	peper	600000	lb.	1746
+6047	12 oktober 1746	150 lasten	rijst	rijst	375000	lb.	1746
+6054	12 oktober 1746	15 stux	slaven	slaven	15	stuks	1746
+6056	12 oktober 1746	22\ thail	slaven	slaven	22		1746
+6058	12 oktober 1746	146.250 lb.	peper	peper	146250	lb.	1746
+6062	12 oktober 1746	97.600 lb.	peper	peper	97600	lb.	1746
+6063	12 oktober 1746	640.012 lb.	peper	peper	640012	lb.	1746
+6064	12 oktober 1746	312.500 lb.	thin	thin	312500	lb.	1746
+6066	12 oktober 1746	108 thailen	silver	silver	8.1	lb.	1746
+6068	12 oktober 1746	7700 picols	thee	thee	962500	lb.	1746
+6069	12 oktober 1746	6000 kisten	koper	koper	6000	kisten	1746
+6082	12 oktober 1746	300.000 lb.	peper	peper	300000	lb.	1746
+6088	12 oktober 1746	300 lasten	rijst	rijst	750000	lb.	1746
+6090	12 oktober 1746	70	rijst	rijst	70		1746
+6091	12 oktober 1746	120 lasten	rijst	rijst	300000	lb.	1746
+6092	12 oktober 1746	465 pakken	foelij	foelij	465	pakken	1746
+6103	12 oktober 1746	30.000 lb.	thin	thin	30000	lb.	1746
+6114	12 oktober 1746	104 lasten	rijst	rijst	260000	lb.	1746
+6115	12 oktober 1746	198 lasten	rijs	rijst	495000	lb.	1746
+6116	12 oktober 1746	3053 lasten	rijst	rijst	7632500	lb.	1746
+6121	12 oktober 1746	5531 lb.	indigo	indigo	5531	lb.	1746
+6138	12 oktober 1746	28.446 lb.	thee	thee	28446	lb.	1746
+6207	12 oktober 1746	94 lb.	indigo	indigo	94	lb.	1746
+6217	12 oktober 1746	23.026 lb.	thee	thee	23026	lb.	1746
+6219	12 oktober 1746	103.950 lb.	foelij	foelij	103950	lb.	1746
+6241	12 oktober 1746	1.000 lb.	peper	peper	1000	lb.	1746
+6242	12 oktober 1746	1.791.087 lb.	thee	thee	1791		1746
+6245	28 nov. 1676	15000 picoll	sappanhout	sappanhout	1875000	lb.	1676
+6246	28 nov. 1676	50 lasten	rijs	rijst	125000	lb.	1676
+6249	28 nov. 1676	7570 man	salpeter	salpeter	378500	lb.	1676
+6250	28 nov. 1676	450 sacken	salpeter	salpeter	450	zakken	1676
+6252	28 nov. 1676	2000 man	thin	thin	100000	lb.	1676
+6260	15 aug. 1633	400 lasten	rijs	rijst	1000000	lb.	1633
+6272	28 maart 1724	155 thailen	goud	goud	11.625	lb.	1724
+6273	10 maart 1745	300 marcq	goud	goud	150.0	lb.	1745
+6304	4 dec. 1656	6000 catty	peeper	peper	7500.0	lb.	1656
+6321	29 april 1681	1000 candylen	peper	peper	500000	lb.	1681
+6323	29 april 1681	750 000	peper	peper	750		1681
+6324	29 april 1681	28 packen	zijde	zijde	28	pakken	1681
+6325	29 april 1681	12 packen	zijde	zijde	12	pakken	1681
+6328	31 dec. 1649	42 balen	sijde	sijde	8400	lb.	1649
+6329	31 dec. 1649	40 752 ®	peper	peper	40		1649
+6334	31 dec. 1649	1200 candy	peper	peper	600000	lb.	1649
+6335	31 dec. 1649	100 bharen	indigo	indigo	50000	lb.	1649
+6342	31 dec. 1649	25 240	nagelen	nagelen	25		1649
+6348	31 dec. 1649	15	salpeter	salpeter	15		1649
+6349	31 dec. 1649	10 kisten	silver	silver	10	kisten	1649
+6357	31 dec. 1649	250 balen	rijs	rijst	50000	lb.	1649
+6360	31 dec. 1649	200 lasten	rijs	rijst	500000	lb.	1649
+6361	31 dec. 1649	9 kisten	silver	silver	9	kisten	1649
+6363	31 dec. 1649	13 kisten	silver	silver	13	kisten	1649
+6386	31 dec. 1683	40	slaven	slaven	40		1683
+6388	31 dec. 1683	18	nagelen	nagelen	18		1683
+6390	31 dec. 1683	800 üt 1000 lasten	salpeter	salpeter	800		1683
+6396	11 jan. 1714	100 p.ls	peper	peper	12500	lb.	1714
+6400	18 maart 1685	3000 p.ls	zijde	zijde	375000	lb.	1685
+6405	31 december 1759	30.736 lb.	thin	thin	30736	lb.	1759
+6406	31 december 1759	690.845 „	sappanhout	sappanhout	690845		1759
+6422	31 december 1759	631.664 lb.	thin	thin	631664	lb.	1759
+6454	31 december 1759	52.214 lb.	zijde	zijde	52214	lb.	1759
+6456	31 december 1759	3.879.779 lb.	salpeter	salpeter	3879		1759
+6464	31 december 1759	73 staven	goud	goud	73	staven	1759
+6522	31 december 1759	40.358 „	thin	thin	40358		1759
+6531	31 december 1759	59.993	thin	thin	59993		1759
+6537	31 december 1759	2000 candijlen	peper	peper	1000000	lb.	1759
+6543	31 december 1759	13.000	peper	peper	13000		1759
+6544	31 december 1759	50.005	thin	thin	50005		1759
+6548	31 december 1759	40 lb.	rijst	rijst	40	lb.	1759
+6549	31 december 1759	40 lb.	rijst	rijst	40	lb.	1759
+6552	31 december 1759	10.000 „	indigo	indigo	10000		1759
+6554	31 december 1759	1.790.250 „	rijst	rijst	1790		1759
+6559	31 december 1759	3000	koper	koper	3000		1759
+6570	31 december 1759	10.000 picols	thin	thin	1250000	lb.	1759
+6574	31 december 1759	234	canneel	kaneel	234		1759
+6577	31 december 1759	3625	nagelen	nagelen	3625		1759
+6581	31 december 1759	575 „	peper	peper	575		1759
+6586	7 maart 1631	400 lasten	peper	peper	1000000	lb.	1631
+6587	7 maart 1631	600 baelen	zijde	zijde	120000	lb.	1631
+6591	7 maart 1631	54	slaven	slaven	54		1631
+6596	7 maart 1631	100 schuyten	gout	goud	100	schuit	1631
+6608	30 nov. 1694	300 carga	sijde	sijde	126900	lb.	1694
+6642	19 maart 1683	1300	zijde	zijde	1300		1683
+6647	19 maart 1683	150 baren	thin	thin	75000	lb.	1683
+6653	19 maart 1683	600 balen	zijde	zijde	120000	lb.	1683
+6656	19 maart 1683	47600 ®	salpeter	salpeter	47600		1683
+6657	19 maart 1683	136 000 ®	salpeter	salpeter	136		1683
+6658	19 maart 1683	108 800	salpeter	salpeter	108		1683
+6659	19 maart 1683	26172	thin	thin	26172		1683
+6666	19 maart 1683	1160	slaven	slaven	1160		1683
+6677	31 jan. 1675	24000	rijs	rijst	24000		1675
+6680	12 febr. 1685	7350 stux	koper	koper	7350	stuks	1685
+6686	12 febr. 1685	130 p.18	peper	peper	16250	lb.	1685
+6687	12 febr. 1685	1360 ©	nagelen	nagelen	1360		1685
+6688	12 febr. 1685	1020 ©	canneel	kaneel	1020		1685
+6691	12 febr. 1685	8	nagelen	nagelen	8		1685
+6695	12 febr. 1685	600000 8	peper	peper	600000		1685
+6697	12 febr. 1685	16000 balen	zijde	zijde	3200000	lb.	1685
+6699	15 oktober 1757	1.320.000 lb.	koper	koper	1320		1757
+6700	15 oktober 1757	100 lb.	zijde	zijde	100	lb.	1757
+6701	15 oktober 1757	150.000 lb.	peeper	peper	150000	lb.	1757
+6703	15 oktober 1757	60.000 lb.	sappanhout	sappanhout	60000	lb.	1757
+6705	15 oktober 1757	1.000.000 lb.	salpeter	salpeter	1000		1757
+6709	15 oktober 1757	000 lb.	peeper	peper	000	lb.	1757
+6711	15 oktober 1757	000 lb.	salpeter	salpeter	000	lb.	1757
+6713	15 oktober 1757	2500 lb.	nagelen	nagelen	2500	lb.	1757
+6714	15 oktober 1757	en50.000 lb.	sappanhout	sappanhout	50000	lb.	1757
+6718	27 febr. 1689	100 bharen	thin	thin	50000	lb.	1689
+6720	27 febr. 1689	60 coyangs	rijs	rijst	97500	lb.	1689
+6721	27 febr. 1689	72 bharen	thin	thin	36000	lb.	1689
+6722	27 febr. 1689	1650 p.113	sappanhout	sappanhout	206250	lb.	1689
+6727	31 maart 1740	125 lb.	goud	goud	125	lb.	1740
+6732	31 maart 1740	13.719 lb.	nagelen	nagelen	13719	lb.	1740
+6734	31 maart 1740	240 lb.	foelij	foelij	240	lb.	1740
+6742	31 maart 1740	1000 lb.	salpeter	salpeter	1000	lb.	1740
+6744	31 maart 1740	20.740 lb.	thee	thee	20740	lb.	1740
+6745	31 maart 1740	1.373 lb.	thee	thee	1373	lb.	1740
+6746	31 maart 1740	20.000 lb.	thee	thee	20000	lb.	1740
+6747	31 maart 1740	37.46 1^ lb.	thee	thee	3746		1740
+6749	31 maart 1740	223.750 lb.	salpeter	salpeter	223750	lb.	1740
+6750	31 maart 1740	70.506 lb.	thee	thee	70506	lb.	1740
+6760	31 december 1757	977 sockels	foelij	foelij	157297	lb.	1757
+6764	31 december 1757	-52.000 bossen	padij	padij	52000	bossen	1757
+6765	31 december 1757	220.121 lb.	thin	thin	220121	lb.	1757
+6784	31 december 1757	60.000 maons	salpeter	salpeter	3000000	lb.	1757
+6809	31 december 1757	4841 lb.	indigo	indigo	4841	lb.	1757
+6832	31 december 1757	4.783,15,8 „	rijst	rijst	4783		1757
+6834	31 december 1757	200.000 „	peper	peper	200000		1757
+6835	31 december 1757	160.000 „	canneel	kaneel	160000		1757
+6837	31 december 1757	.000.000 ponden	salpeter	salpeter	000000	lb.	1757
+6838	31 december 1757	100 lb.	peeper	peper	100	lb.	1757
+6842	31 december 1757	56 lasten	rijst	rijst	140000	lb.	1757
+6843	31 december 1757	1240 bossen	padij	padij	1240	bossen	1757
+6847	31 december 1757	5000	indigo	indigo	5000		1757
+6848	31 december 1757	7875	peeper	peper	7875		1757
+6853	31 december 1757	262.916	sappanhout	sappanhout	262916		1757
+6856	31 december 1757	6932	indigo	indigo	6932		1757
+6857	31 december 1757	80.137	peeper	peper	80137		1757
+6864	31 december 1757	211.625	peeper	peper	211625		1757
+6868	25 maart 1741	195.891 lb.	thee	thee	195891	lb.	1741
+6872	25 maart 1741	48.000 lb.	thee	thee	48000	lb.	1741
+6881	25 maart 1741	41	peper	peper	41		1741
+6882	25 maart 1741	160	peper	peper	160		1741
+6895	30 november 1730	100 gantens	rijst	rijst	1330.0	lb.	1730
+6902	30 november 1730	300 thailen	goud	goud	22.5	lb.	1730
+6912	30 november 1730	3080 lb	foelij	foelij	3080	lb.	1730
+6913	30 november 1730	388.752 lb	peper	peper	388752	lb.	1730
+6920	30 november 1730	339 lb	indigo	indigo	339	lb.	1730
+6922	30 november 1730	19 stux	slaven	slaven	19	stuks	1730
+6923	30 november 1730	300 lasten	rijs	rijst	750000	lb.	1730
+6927	30 november 1730	1370 balen	canneel	kaneel	274000	lb.	1730
+6940	30 november 1730	4004 lb	foelij	foelij	4004	lb.	1730
+6949	30 november 1730	10.579.999 lb	rijst	rijst	10579		1730
+6951	30 november 1730	7875 lb	indigo	indigo	7875	lb.	1730
+6965	30 november 1730	9 lasten	rijs	rijst	22500	lb.	1730
+6966	30 november 1730	100 lasten	rijs	rijst	250000	lb.	1730
+6968	30 november 1730	10 pondenin	nagelen	nagelen	10	lb.	1730
+6979	30 november 1730	17.640 picols	peper	peper	2205000	lb.	1730
+6980	30 november 1730	1350 balen	canneel	kaneel	270000	lb.	1730
+6995	30 november 1730	43.582	foelij	foelij	43582		1730
+7000	30 november 1730	159.309 „	sappanhout	sappanhout	159309		1730
+7015	31 jan. 1653	36 bharen	peper	peper	18000	lb.	1653
+7019	31 jan. 1653	22 kisten	silver	silver	22	kisten	1653
+7022	31 jan. 1653	250 catty	sijde	sijde	312.5	lb.	1653
+7032	15 jan. 1647	220 schuyten	silver	silver	220	schuit	1647
+7039	15 jan. 1647	500 lasten	peper	peper	1250000	lb.	1647
+7048	8 jan. 1640	10 picols	peper	peper	1250	lb.	1640
+7049	8 jan. 1640	647 last	peper	peper	1617500	lb.	1640
+7054	8 jan. 1640	414 p.1 lichte	peper	peper	51750	lb.	1640
